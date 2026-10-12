@@ -1,0 +1,1001 @@
+date,campaign_id,campaign_name,channel,audience,goal,spend_usd,impressions,clicks,conversions,revenue_usd
+2026-02-27,CMP-0001,Facebook | Brand Discovery 0001,Facebook,Young Professionals,Awareness,138.26,12202,96,1,60.75
+2026-02-14,CMP-0002,Instagram | Brand Discovery 0002,Instagram,Parents,Awareness,595.14,48385,349,2,117.8
+2026-04-12,CMP-0003,Pinterest | Brand Discovery 0003,Pinterest,Home & Lifestyle,Awareness,591.28,55815,493,3,152.66
+2026-01-04,CMP-0004,Twitter | Brand Discovery 0004,Twitter,Small Businesses,Awareness,593.06,59045,522,3,147.99
+2026-06-22,CMP-0005,Facebook | New Visitors 0005,Facebook,Parents,Traffic,194.61,16675,237,2,128.66
+2026-01-23,CMP-0006,Instagram | New Visitors 0006,Instagram,Home & Lifestyle,Traffic,704.92,49618,957,9,660.5
+2026-07-05,CMP-0007,Pinterest | New Visitors 0007,Pinterest,Small Businesses,Traffic,557.93,52623,612,5,325.58
+2026-02-10,CMP-0008,Twitter | New Visitors 0008,Twitter,Young Professionals,Traffic,655.06,53943,776,8,658.2
+2026-03-25,CMP-0009,Facebook | Lead Builder 0009,Facebook,Home & Lifestyle,Leads,390.23,35096,378,13,1277.19
+2026-03-29,CMP-0010,Instagram | Lead Builder 0010,Instagram,Small Businesses,Leads,550.72,42022,506,11,1204.26
+2026-04-23,CMP-0011,Pinterest | Lead Builder 0011,Pinterest,Young Professionals,Leads,570.19,51950,734,15,1099.5
+2026-06-11,CMP-0012,Twitter | Lead Builder 0012,Twitter,Parents,Leads,363.31,37199,559,15,1516.13
+2026-04-19,CMP-0013,Facebook | Core Sales 0013,Facebook,Small Businesses,Sales,598.47,51056,832,19,2183.09
+2026-05-07,CMP-0014,Instagram | Core Sales 0014,Instagram,Young Professionals,Sales,716.95,50428,761,17,2258.0
+2026-07-05,CMP-0015,Pinterest | Core Sales 0015,Pinterest,Parents,Sales,288.62,25332,339,5,513.25
+2026-02-26,CMP-0016,Twitter | Core Sales 0016,Twitter,Home & Lifestyle,Sales,203.79,20287,297,7,851.5
+2026-08-28,CMP-0017,Facebook | Seasonal Offers 0017,Facebook,Young Professionals,Sales,567.0,41733,664,10,1405.41
+2026-05-17,CMP-0018,Instagram | Seasonal Offers 0018,Instagram,Parents,Sales,735.56,54624,647,11,1102.01
+2026-05-15,CMP-0019,Pinterest | Seasonal Offers 0019,Pinterest,Home & Lifestyle,Sales,763.12,70940,949,15,2027.6
+2026-09-17,CMP-0020,Twitter | Seasonal Offers 0020,Twitter,Small Businesses,Sales,556.42,55509,844,20,2875.95
+2026-09-29,CMP-0021,Facebook | Newsletter Growth 0021,Facebook,Parents,Leads,885.36,71512,874,16,1387.21
+2026-06-07,CMP-0022,Instagram | Newsletter Growth 0022,Instagram,Home & Lifestyle,Leads,318.38,24321,310,6,609.85
+2026-02-05,CMP-0023,Pinterest | Newsletter Growth 0023,Pinterest,Small Businesses,Leads,767.21,75674,744,22,2427.64
+2026-03-26,CMP-0024,Twitter | Newsletter Growth 0024,Twitter,Young Professionals,Leads,275.87,22685,268,5,469.21
+2026-04-13,CMP-0025,Facebook | Brand Discovery 0025,Facebook,Parents,Awareness,640.45,54587,550,3,198.8
+2026-08-20,CMP-0026,Instagram | Brand Discovery 0026,Instagram,Home & Lifestyle,Awareness,252.0,19341,163,1,49.7
+2026-04-23,CMP-0027,Pinterest | Brand Discovery 0027,Pinterest,Small Businesses,Awareness,115.23,10859,76,0,0.0
+2026-06-19,CMP-0028,Twitter | Brand Discovery 0028,Twitter,Young Professionals,Awareness,151.12,14705,148,1,47.27
+2026-08-31,CMP-0029,Facebook | New Visitors 0029,Facebook,Home & Lifestyle,Traffic,333.07,27820,406,3,230.27
+2026-07-01,CMP-0030,Instagram | New Visitors 0030,Instagram,Small Businesses,Traffic,519.18,37230,643,8,696.01
+2026-02-20,CMP-0031,Pinterest | New Visitors 0031,Pinterest,Young Professionals,Traffic,151.11,14167,253,2,124.07
+2026-08-18,CMP-0032,Twitter | New Visitors 0032,Twitter,Parents,Traffic,219.13,21664,326,4,233.5
+2026-02-20,CMP-0033,Facebook | Lead Builder 0033,Facebook,Small Businesses,Leads,156.93,11473,167,6,657.11
+2026-05-02,CMP-0034,Instagram | Lead Builder 0034,Instagram,Young Professionals,Leads,260.72,18602,194,5,371.87
+2026-07-14,CMP-0035,Pinterest | Lead Builder 0035,Pinterest,Parents,Leads,125.27,12843,194,6,501.32
+2026-09-07,CMP-0036,Twitter | Lead Builder 0036,Twitter,Home & Lifestyle,Leads,229.65,21974,338,9,845.63
+2026-06-10,CMP-0037,Facebook | Core Sales 0037,Facebook,Young Professionals,Sales,161.73,13114,175,5,544.28
+2026-09-18,CMP-0038,Instagram | Core Sales 0038,Instagram,Parents,Sales,215.89,16758,235,6,679.38
+2026-03-03,CMP-0039,Pinterest | Core Sales 0039,Pinterest,Home & Lifestyle,Sales,742.78,72550,1008,15,1569.17
+2026-09-25,CMP-0040,Twitter | Core Sales 0040,Twitter,Small Businesses,Sales,345.9,33438,486,10,1149.41
+2026-03-09,CMP-0041,Facebook | Seasonal Offers 0041,Facebook,Parents,Sales,610.33,53481,642,18,1873.45
+2026-08-23,CMP-0042,Instagram | Seasonal Offers 0042,Instagram,Home & Lifestyle,Sales,693.64,48479,507,12,1541.47
+2026-03-09,CMP-0043,Pinterest | Seasonal Offers 0043,Pinterest,Small Businesses,Sales,737.18,66543,1067,22,2395.21
+2026-06-04,CMP-0044,Twitter | Seasonal Offers 0044,Twitter,Young Professionals,Sales,498.54,39877,575,8,1167.7
+2026-06-03,CMP-0045,Facebook | Newsletter Growth 0045,Facebook,Home & Lifestyle,Leads,800.18,74258,1099,24,2592.8
+2026-03-21,CMP-0046,Instagram | Newsletter Growth 0046,Instagram,Small Businesses,Leads,344.32,23802,327,7,683.81
+2026-05-16,CMP-0047,Pinterest | Newsletter Growth 0047,Pinterest,Young Professionals,Leads,449.83,47966,719,12,1172.26
+2026-05-22,CMP-0048,Twitter | Newsletter Growth 0048,Twitter,Parents,Leads,133.92,12681,125,4,314.18
+2026-08-15,CMP-0049,Facebook | Brand Discovery 0049,Facebook,Home & Lifestyle,Awareness,585.45,49507,337,1,65.86
+2026-03-18,CMP-0050,Instagram | Brand Discovery 0050,Instagram,Small Businesses,Awareness,559.74,36501,352,2,94.31
+2026-06-07,CMP-0051,Pinterest | Brand Discovery 0051,Pinterest,Young Professionals,Awareness,355.3,31669,366,1,52.86
+2026-05-08,CMP-0052,Twitter | Brand Discovery 0052,Twitter,Parents,Awareness,534.04,50284,479,4,272.41
+2026-03-21,CMP-0053,Facebook | New Visitors 0053,Facebook,Small Businesses,Traffic,795.81,71010,894,12,738.93
+2026-07-31,CMP-0054,Instagram | New Visitors 0054,Instagram,Young Professionals,Traffic,167.04,11163,156,2,162.54
+2026-05-08,CMP-0055,Pinterest | New Visitors 0055,Pinterest,Parents,Traffic,289.59,26750,325,4,332.18
+2026-04-24,CMP-0056,Twitter | New Visitors 0056,Twitter,Home & Lifestyle,Traffic,233.81,19012,269,4,333.79
+2026-04-25,CMP-0057,Facebook | Lead Builder 0057,Facebook,Young Professionals,Leads,137.28,12406,139,5,555.8
+2026-05-23,CMP-0058,Instagram | Lead Builder 0058,Instagram,Parents,Leads,406.44,28814,389,13,1110.35
+2026-01-15,CMP-0059,Pinterest | Lead Builder 0059,Pinterest,Home & Lifestyle,Leads,187.86,16595,169,6,496.51
+2026-02-25,CMP-0060,Twitter | Lead Builder 0060,Twitter,Small Businesses,Leads,488.84,46131,655,16,1789.78
+2026-03-01,CMP-0061,Facebook | Core Sales 0061,Facebook,Parents,Sales,401.19,32595,377,10,1000.95
+2026-04-11,CMP-0062,Instagram | Core Sales 0062,Instagram,Home & Lifestyle,Sales,416.75,33489,486,10,1176.58
+2026-03-05,CMP-0063,Pinterest | Core Sales 0063,Pinterest,Small Businesses,Sales,593.79,62433,747,16,1962.16
+2026-06-01,CMP-0064,Twitter | Core Sales 0064,Twitter,Young Professionals,Sales,461.75,45539,661,14,1989.16
+2026-03-31,CMP-0065,Facebook | Seasonal Offers 0065,Facebook,Home & Lifestyle,Sales,569.33,49875,682,10,1161.39
+2026-08-09,CMP-0066,Instagram | Seasonal Offers 0066,Instagram,Small Businesses,Sales,838.98,57968,699,15,2070.06
+2026-09-19,CMP-0067,Pinterest | Seasonal Offers 0067,Pinterest,Young Professionals,Sales,479.57,43076,665,11,1152.47
+2026-09-21,CMP-0068,Twitter | Seasonal Offers 0068,Twitter,Parents,Sales,595.91,52231,544,17,1924.59
+2026-06-08,CMP-0069,Facebook | Newsletter Growth 0069,Facebook,Small Businesses,Leads,283.99,25619,235,5,456.22
+2026-02-07,CMP-0070,Instagram | Newsletter Growth 0070,Instagram,Young Professionals,Leads,488.65,31466,403,12,1050.61
+2026-07-24,CMP-0071,Pinterest | Newsletter Growth 0071,Pinterest,Parents,Leads,307.17,29334,265,8,825.49
+2026-02-24,CMP-0072,Twitter | Newsletter Growth 0072,Twitter,Home & Lifestyle,Leads,605.66,59262,848,26,2361.17
+2026-05-08,CMP-0073,Facebook | Brand Discovery 0073,Facebook,Small Businesses,Awareness,789.75,72901,540,3,171.44
+2026-06-12,CMP-0074,Instagram | Brand Discovery 0074,Instagram,Young Professionals,Awareness,878.61,56504,553,4,225.97
+2026-08-17,CMP-0075,Pinterest | Brand Discovery 0075,Pinterest,Parents,Awareness,798.52,74573,679,3,150.36
+2026-05-22,CMP-0076,Twitter | Brand Discovery 0076,Twitter,Home & Lifestyle,Awareness,597.56,53746,530,3,137.75
+2026-05-27,CMP-0077,Facebook | New Visitors 0077,Facebook,Young Professionals,Traffic,291.18,25258,470,3,182.25
+2026-07-16,CMP-0078,Instagram | New Visitors 0078,Instagram,Parents,Traffic,757.92,51037,601,6,438.55
+2026-08-01,CMP-0079,Pinterest | New Visitors 0079,Pinterest,Home & Lifestyle,Traffic,170.48,15571,225,3,257.4
+2026-01-11,CMP-0080,Twitter | New Visitors 0080,Twitter,Small Businesses,Traffic,655.96,55384,797,5,335.4
+2026-07-19,CMP-0081,Facebook | Lead Builder 0081,Facebook,Parents,Leads,832.18,61510,724,23,2164.72
+2026-04-23,CMP-0082,Instagram | Lead Builder 0082,Instagram,Home & Lifestyle,Leads,514.52,38944,475,11,1089.98
+2026-07-27,CMP-0083,Pinterest | Lead Builder 0083,Pinterest,Small Businesses,Leads,668.37,60931,918,33,3089.86
+2026-07-21,CMP-0084,Twitter | Lead Builder 0084,Twitter,Young Professionals,Leads,544.13,47155,451,11,1178.18
+2026-04-04,CMP-0085,Facebook | Core Sales 0085,Facebook,Home & Lifestyle,Sales,156.71,13430,151,3,428.46
+2026-07-14,CMP-0086,Instagram | Core Sales 0086,Instagram,Small Businesses,Sales,390.85,24776,316,9,1138.09
+2026-01-27,CMP-0087,Pinterest | Core Sales 0087,Pinterest,Young Professionals,Sales,781.94,81073,1167,33,4509.82
+2026-01-16,CMP-0088,Twitter | Core Sales 0088,Twitter,Parents,Sales,715.63,70421,697,12,1285.2
+2026-02-28,CMP-0089,Facebook | Seasonal Offers 0089,Facebook,Small Businesses,Sales,531.7,47702,704,20,2188.76
+2026-02-28,CMP-0090,Instagram | Seasonal Offers 0090,Instagram,Young Professionals,Sales,742.81,58036,695,17,2588.25
+2026-07-12,CMP-0091,Pinterest | Seasonal Offers 0091,Pinterest,Parents,Sales,422.01,39698,409,11,1488.11
+2026-02-22,CMP-0092,Twitter | Seasonal Offers 0092,Twitter,Home & Lifestyle,Sales,553.48,52885,774,22,3185.33
+2026-01-22,CMP-0093,Facebook | Newsletter Growth 0093,Facebook,Young Professionals,Leads,373.46,31574,361,10,858.2
+2026-08-04,CMP-0094,Instagram | Newsletter Growth 0094,Instagram,Parents,Leads,871.28,69265,1063,31,3272.44
+2026-03-20,CMP-0095,Pinterest | Newsletter Growth 0095,Pinterest,Home & Lifestyle,Leads,402.87,37718,580,13,1361.52
+2026-09-05,CMP-0096,Twitter | Newsletter Growth 0096,Twitter,Small Businesses,Leads,452.74,37658,486,11,901.37
+2026-02-14,CMP-0097,Facebook | Brand Discovery 0097,Facebook,Young Professionals,Awareness,323.62,27194,285,2,121.08
+2026-06-22,CMP-0098,Instagram | Brand Discovery 0098,Instagram,Parents,Awareness,152.23,9887,76,0,0.0
+2026-06-24,CMP-0099,Pinterest | Brand Discovery 0099,Pinterest,Home & Lifestyle,Awareness,298.22,28926,321,2,113.57
+2026-04-08,CMP-0100,Twitter | Brand Discovery 0100,Twitter,Small Businesses,Awareness,160.6,13716,126,1,61.09
+2026-09-09,CMP-0101,Facebook | New Visitors 0101,Facebook,Parents,Traffic,500.83,47717,653,6,381.98
+2026-07-08,CMP-0102,Instagram | New Visitors 0102,Instagram,Home & Lifestyle,Traffic,563.04,39687,586,7,464.94
+2026-08-21,CMP-0103,Pinterest | New Visitors 0103,Pinterest,Small Businesses,Traffic,327.43,34912,428,3,179.3
+2026-04-05,CMP-0104,Twitter | New Visitors 0104,Twitter,Young Professionals,Traffic,228.65,19437,263,3,239.84
+2026-05-25,CMP-0105,Facebook | Lead Builder 0105,Facebook,Home & Lifestyle,Leads,835.77,63616,697,16,1347.87
+2026-03-06,CMP-0106,Instagram | Lead Builder 0106,Instagram,Small Businesses,Leads,345.87,21804,276,8,616.91
+2026-09-09,CMP-0107,Pinterest | Lead Builder 0107,Pinterest,Young Professionals,Leads,200.81,22994,250,6,514.79
+2026-01-27,CMP-0108,Twitter | Lead Builder 0108,Twitter,Parents,Leads,267.79,22078,215,4,367.66
+2026-01-28,CMP-0109,Facebook | Core Sales 0109,Facebook,Small Businesses,Sales,230.76,17658,292,5,569.8
+2026-08-02,CMP-0110,Instagram | Core Sales 0110,Instagram,Young Professionals,Sales,680.54,44864,510,12,1504.1
+2026-08-15,CMP-0111,Pinterest | Core Sales 0111,Pinterest,Parents,Sales,347.31,33755,433,11,1137.27
+2026-02-20,CMP-0112,Twitter | Core Sales 0112,Twitter,Home & Lifestyle,Sales,714.33,70121,789,20,2176.69
+2026-03-30,CMP-0113,Facebook | Seasonal Offers 0113,Facebook,Young Professionals,Sales,522.95,47770,605,16,2022.92
+2026-01-17,CMP-0114,Instagram | Seasonal Offers 0114,Instagram,Parents,Sales,312.1,21014,311,7,970.66
+2026-05-16,CMP-0115,Pinterest | Seasonal Offers 0115,Pinterest,Home & Lifestyle,Sales,639.51,61564,891,27,3345.68
+2026-04-26,CMP-0116,Twitter | Seasonal Offers 0116,Twitter,Small Businesses,Sales,521.64,42520,666,10,1093.33
+2026-06-07,CMP-0117,Facebook | Newsletter Growth 0117,Facebook,Parents,Leads,554.38,42285,638,16,1455.72
+2026-06-05,CMP-0118,Instagram | Newsletter Growth 0118,Instagram,Home & Lifestyle,Leads,681.27,43274,532,14,1053.61
+2026-01-21,CMP-0119,Pinterest | Newsletter Growth 0119,Pinterest,Small Businesses,Leads,707.74,66248,860,14,1137.8
+2026-01-11,CMP-0120,Twitter | Newsletter Growth 0120,Twitter,Young Professionals,Leads,747.73,64645,697,12,1231.55
+2026-08-29,CMP-0121,Facebook | Brand Discovery 0121,Facebook,Parents,Awareness,558.7,47057,382,3,164.36
+2026-09-09,CMP-0122,Instagram | Brand Discovery 0122,Instagram,Home & Lifestyle,Awareness,1000.84,71711,629,3,139.77
+2026-03-24,CMP-0123,Pinterest | Brand Discovery 0123,Pinterest,Small Businesses,Awareness,331.9,31392,257,2,128.27
+2026-01-19,CMP-0124,Twitter | Brand Discovery 0124,Twitter,Young Professionals,Awareness,397.78,37869,316,3,162.01
+2026-09-21,CMP-0125,Facebook | New Visitors 0125,Facebook,Home & Lifestyle,Traffic,808.86,77449,1427,15,865.61
+2026-09-23,CMP-0126,Instagram | New Visitors 0126,Instagram,Small Businesses,Traffic,464.61,30893,507,6,374.47
+2026-03-09,CMP-0127,Pinterest | New Visitors 0127,Pinterest,Young Professionals,Traffic,733.43,74212,1262,9,779.89
+2026-05-03,CMP-0128,Twitter | New Visitors 0128,Twitter,Parents,Traffic,561.56,53518,608,6,378.47
+2026-02-28,CMP-0129,Facebook | Lead Builder 0129,Facebook,Small Businesses,Leads,456.86,42221,612,16,1616.36
+2026-09-18,CMP-0130,Instagram | Lead Builder 0130,Instagram,Young Professionals,Leads,768.04,55855,681,17,1538.5
+2026-03-16,CMP-0131,Pinterest | Lead Builder 0131,Pinterest,Parents,Leads,368.02,32891,406,14,1497.9
+2026-05-22,CMP-0132,Twitter | Lead Builder 0132,Twitter,Home & Lifestyle,Leads,601.97,49718,559,18,1490.77
+2026-01-02,CMP-0133,Facebook | Core Sales 0133,Facebook,Young Professionals,Sales,326.47,28619,399,13,1658.05
+2026-03-18,CMP-0134,Instagram | Core Sales 0134,Instagram,Parents,Sales,481.66,34378,417,12,1454.62
+2026-06-14,CMP-0135,Pinterest | Core Sales 0135,Pinterest,Home & Lifestyle,Sales,694.42,61193,701,15,2222.26
+2026-07-30,CMP-0136,Twitter | Core Sales 0136,Twitter,Small Businesses,Sales,149.68,12704,188,5,608.58
+2026-03-19,CMP-0137,Facebook | Seasonal Offers 0137,Facebook,Parents,Sales,481.59,45605,608,15,2233.81
+2026-08-14,CMP-0138,Instagram | Seasonal Offers 0138,Instagram,Home & Lifestyle,Sales,233.2,14928,147,2,297.98
+2026-03-21,CMP-0139,Pinterest | Seasonal Offers 0139,Pinterest,Small Businesses,Sales,160.65,14861,173,4,489.43
+2026-02-11,CMP-0140,Twitter | Seasonal Offers 0140,Twitter,Young Professionals,Sales,652.77,53941,857,18,2120.62
+2026-09-07,CMP-0141,Facebook | Newsletter Growth 0141,Facebook,Home & Lifestyle,Leads,847.66,80299,759,22,2404.55
+2026-04-27,CMP-0142,Instagram | Newsletter Growth 0142,Instagram,Small Businesses,Leads,718.35,51977,502,15,1610.09
+2026-08-16,CMP-0143,Pinterest | Newsletter Growth 0143,Pinterest,Young Professionals,Leads,248.79,26165,240,5,371.36
+2026-07-03,CMP-0144,Twitter | Newsletter Growth 0144,Twitter,Parents,Leads,387.97,38788,485,13,1353.26
+2026-03-29,CMP-0145,Facebook | Brand Discovery 0145,Facebook,Home & Lifestyle,Awareness,247.8,19960,173,1,56.32
+2026-03-15,CMP-0146,Instagram | Brand Discovery 0146,Instagram,Small Businesses,Awareness,312.66,21428,193,1,66.25
+2026-08-27,CMP-0147,Pinterest | Brand Discovery 0147,Pinterest,Young Professionals,Awareness,801.53,76122,573,3,157.66
+2026-06-03,CMP-0148,Twitter | Brand Discovery 0148,Twitter,Parents,Awareness,516.05,47649,381,3,146.79
+2026-07-16,CMP-0149,Facebook | New Visitors 0149,Facebook,Small Businesses,Traffic,832.09,77149,1111,10,653.2
+2026-06-01,CMP-0150,Instagram | New Visitors 0150,Instagram,Young Professionals,Traffic,146.9,9590,139,1,83.25
+2026-01-26,CMP-0151,Pinterest | New Visitors 0151,Pinterest,Parents,Traffic,721.97,67398,1221,17,1367.41
+2026-04-28,CMP-0152,Twitter | New Visitors 0152,Twitter,Home & Lifestyle,Traffic,495.58,46681,770,9,696.15
+2026-03-12,CMP-0153,Facebook | Lead Builder 0153,Facebook,Young Professionals,Leads,578.62,43287,574,13,1168.09
+2026-07-06,CMP-0154,Instagram | Lead Builder 0154,Instagram,Parents,Leads,791.83,63242,692,22,1740.5
+2026-03-09,CMP-0155,Pinterest | Lead Builder 0155,Pinterest,Home & Lifestyle,Leads,638.62,57708,659,17,1411.64
+2026-03-26,CMP-0156,Twitter | Lead Builder 0156,Twitter,Small Businesses,Leads,270.68,22520,274,9,920.12
+2026-06-23,CMP-0157,Facebook | Core Sales 0157,Facebook,Parents,Sales,707.09,59134,608,17,1915.74
+2026-07-23,CMP-0158,Instagram | Core Sales 0158,Instagram,Home & Lifestyle,Sales,999.26,65649,812,23,2318.01
+2026-03-05,CMP-0159,Pinterest | Core Sales 0159,Pinterest,Small Businesses,Sales,415.83,39540,576,14,2047.65
+2026-07-10,CMP-0160,Twitter | Core Sales 0160,Twitter,Young Professionals,Sales,196.23,19117,190,6,789.47
+2026-04-24,CMP-0161,Facebook | Seasonal Offers 0161,Facebook,Home & Lifestyle,Sales,592.79,47428,620,17,2320.84
+2026-03-01,CMP-0162,Instagram | Seasonal Offers 0162,Instagram,Small Businesses,Sales,239.8,15219,182,4,421.87
+2026-03-11,CMP-0163,Pinterest | Seasonal Offers 0163,Pinterest,Young Professionals,Sales,371.41,38283,633,17,2216.56
+2026-03-21,CMP-0164,Twitter | Seasonal Offers 0164,Twitter,Parents,Sales,674.39,58566,920,23,3514.9
+2026-05-24,CMP-0165,Facebook | Newsletter Growth 0165,Facebook,Small Businesses,Leads,143.88,12360,147,5,533.23
+2026-02-20,CMP-0166,Instagram | Newsletter Growth 0166,Instagram,Young Professionals,Leads,902.96,66548,995,29,2159.12
+2026-05-22,CMP-0167,Pinterest | Newsletter Growth 0167,Pinterest,Parents,Leads,237.88,26344,385,10,988.42
+2026-01-11,CMP-0168,Twitter | Newsletter Growth 0168,Twitter,Home & Lifestyle,Leads,138.09,13076,203,6,481.86
+2026-04-17,CMP-0169,Facebook | Brand Discovery 0169,Facebook,Small Businesses,Awareness,548.06,41919,331,3,190.56
+2026-01-02,CMP-0170,Instagram | Brand Discovery 0170,Instagram,Young Professionals,Awareness,348.2,21900,255,2,127.53
+2026-02-26,CMP-0171,Pinterest | Brand Discovery 0171,Pinterest,Parents,Awareness,554.37,63215,431,3,149.67
+2026-06-15,CMP-0172,Twitter | Brand Discovery 0172,Twitter,Home & Lifestyle,Awareness,115.74,11174,82,0,0.0
+2026-02-02,CMP-0173,Facebook | New Visitors 0173,Facebook,Young Professionals,Traffic,467.66,36083,559,4,287.48
+2026-01-23,CMP-0174,Instagram | New Visitors 0174,Instagram,Parents,Traffic,702.96,45018,751,7,533.86
+2026-01-16,CMP-0175,Pinterest | New Visitors 0175,Pinterest,Home & Lifestyle,Traffic,151.25,15135,220,3,214.33
+2026-08-16,CMP-0176,Twitter | New Visitors 0176,Twitter,Small Businesses,Traffic,171.15,17447,284,2,129.33
+2026-06-16,CMP-0177,Facebook | Lead Builder 0177,Facebook,Parents,Leads,398.06,32165,352,9,804.81
+2026-02-28,CMP-0178,Instagram | Lead Builder 0178,Instagram,Home & Lifestyle,Leads,801.94,54776,771,24,1937.0
+2026-08-20,CMP-0179,Pinterest | Lead Builder 0179,Pinterest,Small Businesses,Leads,791.66,80639,1166,28,2843.38
+2026-06-10,CMP-0180,Twitter | Lead Builder 0180,Twitter,Young Professionals,Leads,379.75,32892,377,7,765.67
+2026-02-04,CMP-0181,Facebook | Core Sales 0181,Facebook,Home & Lifestyle,Sales,186.59,17411,224,6,725.77
+2026-03-08,CMP-0182,Instagram | Core Sales 0182,Instagram,Small Businesses,Sales,568.24,39470,543,11,1175.63
+2026-07-01,CMP-0183,Pinterest | Core Sales 0183,Pinterest,Young Professionals,Sales,780.77,69457,887,27,2778.13
+2026-05-28,CMP-0184,Twitter | Core Sales 0184,Twitter,Parents,Sales,491.3,46286,643,12,1643.3
+2026-04-25,CMP-0185,Facebook | Seasonal Offers 0185,Facebook,Small Businesses,Sales,738.51,63806,876,14,1619.37
+2026-04-26,CMP-0186,Instagram | Seasonal Offers 0186,Instagram,Young Professionals,Sales,766.01,49823,833,24,3228.32
+2026-01-14,CMP-0187,Pinterest | Seasonal Offers 0187,Pinterest,Parents,Sales,519.4,49579,729,11,1269.09
+2026-06-08,CMP-0188,Twitter | Seasonal Offers 0188,Twitter,Home & Lifestyle,Sales,697.6,65734,726,12,1643.71
+2026-02-05,CMP-0189,Facebook | Newsletter Growth 0189,Facebook,Young Professionals,Leads,223.57,17898,165,5,403.56
+2026-08-03,CMP-0190,Instagram | Newsletter Growth 0190,Instagram,Parents,Leads,545.72,42718,472,11,1211.4
+2026-02-13,CMP-0191,Pinterest | Newsletter Growth 0191,Pinterest,Home & Lifestyle,Leads,703.65,77154,1079,19,1430.78
+2026-08-15,CMP-0192,Twitter | Newsletter Growth 0192,Twitter,Small Businesses,Leads,594.53,53987,643,14,1436.05
+2026-02-28,CMP-0193,Facebook | Brand Discovery 0193,Facebook,Young Professionals,Awareness,371.98,34445,348,2,114.08
+2026-06-07,CMP-0194,Instagram | Brand Discovery 0194,Instagram,Parents,Awareness,165.41,12097,118,0,0.0
+2026-04-19,CMP-0195,Pinterest | Brand Discovery 0195,Pinterest,Home & Lifestyle,Awareness,625.75,58138,476,2,112.62
+2026-08-09,CMP-0196,Twitter | Brand Discovery 0196,Twitter,Small Businesses,Awareness,244.68,22869,234,1,64.63
+2026-07-01,CMP-0197,Facebook | New Visitors 0197,Facebook,Parents,Traffic,193.33,14611,169,1,85.02
+2026-06-10,CMP-0198,Instagram | New Visitors 0198,Instagram,Home & Lifestyle,Traffic,583.53,40671,696,7,417.4
+2026-01-11,CMP-0199,Pinterest | New Visitors 0199,Pinterest,Small Businesses,Traffic,759.3,82856,1580,16,1243.56
+2026-07-05,CMP-0200,Twitter | New Visitors 0200,Twitter,Young Professionals,Traffic,181.68,15042,199,2,145.01
+2026-07-22,CMP-0201,Facebook | Lead Builder 0201,Facebook,Home & Lifestyle,Leads,846.14,65815,689,22,1652.05
+2026-02-28,CMP-0202,Instagram | Lead Builder 0202,Instagram,Small Businesses,Leads,547.93,42433,599,14,1551.31
+2026-03-17,CMP-0203,Pinterest | Lead Builder 0203,Pinterest,Young Professionals,Leads,269.08,29584,305,9,925.1
+2026-02-08,CMP-0204,Twitter | Lead Builder 0204,Twitter,Parents,Leads,219.4,18491,227,7,719.43
+2026-08-18,CMP-0205,Facebook | Core Sales 0205,Facebook,Small Businesses,Sales,691.29,51985,746,24,2836.33
+2026-06-11,CMP-0206,Instagram | Core Sales 0206,Instagram,Young Professionals,Sales,248.61,19988,258,5,577.25
+2026-01-29,CMP-0207,Pinterest | Core Sales 0207,Pinterest,Parents,Sales,346.76,38960,508,8,965.93
+2026-05-27,CMP-0208,Twitter | Core Sales 0208,Twitter,Home & Lifestyle,Sales,154.89,12762,202,5,642.61
+2026-08-25,CMP-0209,Facebook | Seasonal Offers 0209,Facebook,Young Professionals,Sales,608.88,44997,676,10,1511.34
+2026-04-07,CMP-0210,Instagram | Seasonal Offers 0210,Instagram,Parents,Sales,383.09,27407,297,5,529.11
+2026-06-25,CMP-0211,Pinterest | Seasonal Offers 0211,Pinterest,Home & Lifestyle,Sales,770.17,86268,1240,19,2656.27
+2026-08-13,CMP-0212,Twitter | Seasonal Offers 0212,Twitter,Small Businesses,Sales,495.33,43522,538,16,1948.67
+2026-06-23,CMP-0213,Facebook | Newsletter Growth 0213,Facebook,Parents,Leads,615.6,58023,764,18,1536.34
+2026-07-17,CMP-0214,Instagram | Newsletter Growth 0214,Instagram,Home & Lifestyle,Leads,396.06,26553,354,12,1288.41
+2026-06-20,CMP-0215,Pinterest | Newsletter Growth 0215,Pinterest,Small Businesses,Leads,165.14,15740,237,5,492.85
+2026-07-20,CMP-0216,Twitter | Newsletter Growth 0216,Twitter,Young Professionals,Leads,211.05,18077,173,5,490.31
+2026-06-18,CMP-0217,Facebook | Brand Discovery 0217,Facebook,Parents,Awareness,713.62,56586,614,5,304.82
+2026-09-27,CMP-0218,Instagram | Brand Discovery 0218,Instagram,Home & Lifestyle,Awareness,227.67,15473,143,1,51.64
+2026-04-20,CMP-0219,Pinterest | Brand Discovery 0219,Pinterest,Small Businesses,Awareness,339.91,31565,243,2,95.67
+2026-06-01,CMP-0220,Twitter | Brand Discovery 0220,Twitter,Young Professionals,Awareness,648.06,65657,694,5,329.36
+2026-01-20,CMP-0221,Facebook | New Visitors 0221,Facebook,Home & Lifestyle,Traffic,603.21,45424,743,8,486.87
+2026-04-03,CMP-0222,Instagram | New Visitors 0222,Instagram,Small Businesses,Traffic,785.03,52007,932,7,488.51
+2026-07-30,CMP-0223,Pinterest | New Visitors 0223,Pinterest,Young Professionals,Traffic,397.67,37365,719,8,637.6
+2026-08-18,CMP-0224,Twitter | New Visitors 0224,Twitter,Parents,Traffic,286.63,27881,536,7,591.33
+2026-04-10,CMP-0225,Facebook | Lead Builder 0225,Facebook,Small Businesses,Leads,388.52,28761,446,11,917.53
+2026-07-15,CMP-0226,Instagram | Lead Builder 0226,Instagram,Young Professionals,Leads,589.22,42813,431,9,868.4
+2026-05-09,CMP-0227,Pinterest | Lead Builder 0227,Pinterest,Parents,Leads,145.44,14547,167,6,604.87
+2026-09-22,CMP-0228,Twitter | Lead Builder 0228,Twitter,Home & Lifestyle,Leads,730.68,70145,985,21,2281.96
+2026-03-17,CMP-0229,Facebook | Core Sales 0229,Facebook,Young Professionals,Sales,726.66,67677,1100,32,4792.33
+2026-01-14,CMP-0230,Instagram | Core Sales 0230,Instagram,Parents,Sales,456.7,33388,415,9,941.31
+2026-04-25,CMP-0231,Pinterest | Core Sales 0231,Pinterest,Home & Lifestyle,Sales,129.33,11534,182,5,722.58
+2026-03-12,CMP-0232,Twitter | Core Sales 0232,Twitter,Small Businesses,Sales,130.21,10591,139,4,570.74
+2026-08-29,CMP-0233,Facebook | Seasonal Offers 0233,Facebook,Parents,Sales,501.18,47928,494,9,1322.7
+2026-09-28,CMP-0234,Instagram | Seasonal Offers 0234,Instagram,Home & Lifestyle,Sales,518.89,34332,393,6,680.47
+2026-08-23,CMP-0235,Pinterest | Seasonal Offers 0235,Pinterest,Small Businesses,Sales,170.89,15593,208,5,677.74
+2026-05-04,CMP-0236,Twitter | Seasonal Offers 0236,Twitter,Young Professionals,Sales,567.19,54354,531,11,1453.1
+2026-04-06,CMP-0237,Facebook | Newsletter Growth 0237,Facebook,Home & Lifestyle,Leads,604.99,56449,871,15,1399.58
+2026-09-17,CMP-0238,Instagram | Newsletter Growth 0238,Instagram,Small Businesses,Leads,839.56,59548,544,18,1327.74
+2026-07-18,CMP-0239,Pinterest | Newsletter Growth 0239,Pinterest,Young Professionals,Leads,861.58,91805,836,27,2321.04
+2026-02-23,CMP-0240,Twitter | Newsletter Growth 0240,Twitter,Parents,Leads,601.21,51152,573,10,941.14
+2026-03-31,CMP-0241,Facebook | Brand Discovery 0241,Facebook,Home & Lifestyle,Awareness,726.18,57368,666,4,194.05
+2026-03-11,CMP-0242,Instagram | Brand Discovery 0242,Instagram,Small Businesses,Awareness,179.35,11866,107,1,45.08
+2026-04-13,CMP-0243,Pinterest | Brand Discovery 0243,Pinterest,Young Professionals,Awareness,705.3,73837,612,4,256.73
+2026-08-31,CMP-0244,Twitter | Brand Discovery 0244,Twitter,Parents,Awareness,300.53,25453,196,1,63.33
+2026-06-19,CMP-0245,Facebook | New Visitors 0245,Facebook,Small Businesses,Traffic,319.45,24517,364,4,279.41
+2026-07-17,CMP-0246,Instagram | New Visitors 0246,Instagram,Young Professionals,Traffic,444.52,34496,585,6,486.69
+2026-05-17,CMP-0247,Pinterest | New Visitors 0247,Pinterest,Parents,Traffic,648.45,60812,724,8,655.23
+2026-05-31,CMP-0248,Twitter | New Visitors 0248,Twitter,Home & Lifestyle,Traffic,311.95,31806,531,5,374.91
+2026-08-07,CMP-0249,Facebook | Lead Builder 0249,Facebook,Young Professionals,Leads,270.65,22785,272,8,871.36
+2026-08-11,CMP-0250,Instagram | Lead Builder 0250,Instagram,Parents,Leads,387.59,24401,372,7,684.73
+2026-07-06,CMP-0251,Pinterest | Lead Builder 0251,Pinterest,Home & Lifestyle,Leads,509.59,47515,478,8,850.97
+2026-08-13,CMP-0252,Twitter | Lead Builder 0252,Twitter,Small Businesses,Leads,143.31,14669,207,5,437.53
+2026-01-17,CMP-0253,Facebook | Core Sales 0253,Facebook,Parents,Sales,561.72,44439,735,15,2143.85
+2026-03-12,CMP-0254,Instagram | Core Sales 0254,Instagram,Home & Lifestyle,Sales,547.03,39974,575,11,1170.2
+2026-04-06,CMP-0255,Pinterest | Core Sales 0255,Pinterest,Small Businesses,Sales,445.56,45723,629,12,1375.7
+2026-08-17,CMP-0256,Twitter | Core Sales 0256,Twitter,Young Professionals,Sales,272.65,23943,352,11,1223.86
+2026-03-11,CMP-0257,Facebook | Seasonal Offers 0257,Facebook,Home & Lifestyle,Sales,742.56,62376,1009,22,2308.64
+2026-06-13,CMP-0258,Instagram | Seasonal Offers 0258,Instagram,Small Businesses,Sales,656.12,44147,604,12,1402.47
+2026-03-22,CMP-0259,Pinterest | Seasonal Offers 0259,Pinterest,Young Professionals,Sales,588.45,52522,752,21,2700.97
+2026-03-04,CMP-0260,Twitter | Seasonal Offers 0260,Twitter,Parents,Sales,738.45,61938,709,16,1924.81
+2026-07-08,CMP-0261,Facebook | Newsletter Growth 0261,Facebook,Small Businesses,Leads,516.55,37912,374,13,970.62
+2026-07-23,CMP-0262,Instagram | Newsletter Growth 0262,Instagram,Young Professionals,Leads,1027.8,68992,860,27,2844.32
+2026-02-07,CMP-0263,Pinterest | Newsletter Growth 0263,Pinterest,Parents,Leads,194.57,20361,193,5,464.77
+2026-03-07,CMP-0264,Twitter | Newsletter Growth 0264,Twitter,Home & Lifestyle,Leads,669.6,56329,745,15,1667.01
+2026-08-10,CMP-0265,Facebook | Brand Discovery 0265,Facebook,Small Businesses,Awareness,545.54,41163,447,3,154.58
+2026-03-24,CMP-0266,Instagram | Brand Discovery 0266,Instagram,Young Professionals,Awareness,383.99,25838,219,2,132.3
+2026-02-10,CMP-0267,Pinterest | Brand Discovery 0267,Pinterest,Parents,Awareness,278.71,26761,254,1,51.49
+2026-02-17,CMP-0268,Twitter | Brand Discovery 0268,Twitter,Home & Lifestyle,Awareness,428.45,42544,485,2,120.61
+2026-06-22,CMP-0269,Facebook | New Visitors 0269,Facebook,Young Professionals,Traffic,735.05,59925,1082,7,402.02
+2026-05-16,CMP-0270,Instagram | New Visitors 0270,Instagram,Parents,Traffic,642.95,42638,626,7,501.82
+2026-05-29,CMP-0271,Pinterest | New Visitors 0271,Pinterest,Home & Lifestyle,Traffic,541.5,56906,755,10,687.92
+2026-08-21,CMP-0272,Twitter | New Visitors 0272,Twitter,Small Businesses,Traffic,170.78,17520,261,3,187.28
+2026-03-15,CMP-0273,Facebook | Lead Builder 0273,Facebook,Parents,Leads,348.19,27272,378,13,1449.53
+2026-03-08,CMP-0274,Instagram | Lead Builder 0274,Instagram,Home & Lifestyle,Leads,729.31,51627,501,11,846.58
+2026-08-19,CMP-0275,Pinterest | Lead Builder 0275,Pinterest,Small Businesses,Leads,310.13,34607,378,9,872.31
+2026-05-08,CMP-0276,Twitter | Lead Builder 0276,Twitter,Young Professionals,Leads,724.03,59105,849,30,3036.17
+2026-04-08,CMP-0277,Facebook | Core Sales 0277,Facebook,Home & Lifestyle,Sales,677.08,56169,754,17,1995.04
+2026-01-12,CMP-0278,Instagram | Core Sales 0278,Instagram,Small Businesses,Sales,200.59,14678,191,4,531.25
+2026-01-25,CMP-0279,Pinterest | Core Sales 0279,Pinterest,Young Professionals,Sales,144.34,14382,231,6,758.82
+2026-01-05,CMP-0280,Twitter | Core Sales 0280,Twitter,Parents,Sales,649.82,59892,962,26,3717.14
+2026-07-07,CMP-0281,Facebook | Seasonal Offers 0281,Facebook,Small Businesses,Sales,171.39,16160,222,5,581.17
+2026-07-17,CMP-0282,Instagram | Seasonal Offers 0282,Instagram,Young Professionals,Sales,590.41,39179,460,15,2074.09
+2026-03-02,CMP-0283,Pinterest | Seasonal Offers 0283,Pinterest,Parents,Sales,196.81,21963,273,9,1182.4
+2026-07-07,CMP-0284,Twitter | Seasonal Offers 0284,Twitter,Home & Lifestyle,Sales,661.46,65097,872,20,2050.97
+2026-03-12,CMP-0285,Facebook | Newsletter Growth 0285,Facebook,Young Professionals,Leads,640.92,49132,611,12,1298.06
+2026-03-13,CMP-0286,Instagram | Newsletter Growth 0286,Instagram,Parents,Leads,388.17,26775,270,10,1019.42
+2026-06-03,CMP-0287,Pinterest | Newsletter Growth 0287,Pinterest,Home & Lifestyle,Leads,509.15,50562,625,16,1516.77
+2026-09-01,CMP-0288,Twitter | Newsletter Growth 0288,Twitter,Small Businesses,Leads,705.19,66128,889,32,3060.48
+2026-01-14,CMP-0289,Facebook | Brand Discovery 0289,Facebook,Young Professionals,Awareness,555.74,49179,492,4,233.27
+2026-04-27,CMP-0290,Instagram | Brand Discovery 0290,Instagram,Parents,Awareness,698.35,48545,369,3,178.02
+2026-07-14,CMP-0291,Pinterest | Brand Discovery 0291,Pinterest,Home & Lifestyle,Awareness,234.8,22281,154,1,46.72
+2026-01-10,CMP-0292,Twitter | Brand Discovery 0292,Twitter,Small Businesses,Awareness,388.92,35965,316,2,112.84
+2026-08-30,CMP-0293,Facebook | New Visitors 0293,Facebook,Parents,Traffic,848.02,66127,778,6,375.19
+2026-06-16,CMP-0294,Instagram | New Visitors 0294,Instagram,Home & Lifestyle,Traffic,916.52,65521,941,13,916.23
+2026-09-30,CMP-0295,Pinterest | New Visitors 0295,Pinterest,Small Businesses,Traffic,381.14,39469,695,9,686.38
+2026-05-16,CMP-0296,Twitter | New Visitors 0296,Twitter,Young Professionals,Traffic,497.51,49059,652,7,441.58
+2026-06-02,CMP-0297,Facebook | Lead Builder 0297,Facebook,Home & Lifestyle,Leads,682.96,53675,728,19,1737.21
+2026-05-21,CMP-0298,Instagram | Lead Builder 0298,Instagram,Small Businesses,Leads,356.49,24846,313,11,967.76
+2026-06-26,CMP-0299,Pinterest | Lead Builder 0299,Pinterest,Young Professionals,Leads,751.52,69121,755,17,1715.69
+2026-06-27,CMP-0300,Twitter | Lead Builder 0300,Twitter,Parents,Leads,699.18,60702,846,17,1794.04
+2026-05-19,CMP-0301,Facebook | Core Sales 0301,Facebook,Small Businesses,Sales,801.11,63101,677,17,2261.16
+2026-05-05,CMP-0302,Instagram | Core Sales 0302,Instagram,Young Professionals,Sales,169.62,10872,124,2,211.27
+2026-06-19,CMP-0303,Pinterest | Core Sales 0303,Pinterest,Parents,Sales,592.18,66007,1007,14,1833.4
+2026-03-22,CMP-0304,Twitter | Core Sales 0304,Twitter,Home & Lifestyle,Sales,367.0,29724,476,11,1223.41
+2026-05-28,CMP-0305,Facebook | Seasonal Offers 0305,Facebook,Young Professionals,Sales,354.45,28282,459,7,926.07
+2026-01-20,CMP-0306,Instagram | Seasonal Offers 0306,Instagram,Parents,Sales,849.59,66158,1062,18,2731.13
+2026-07-23,CMP-0307,Pinterest | Seasonal Offers 0307,Pinterest,Home & Lifestyle,Sales,716.35,77838,1176,35,4069.89
+2026-01-20,CMP-0308,Twitter | Seasonal Offers 0308,Twitter,Small Businesses,Sales,111.55,9910,104,3,348.02
+2026-09-26,CMP-0309,Facebook | Newsletter Growth 0309,Facebook,Parents,Leads,538.22,39925,584,15,1197.13
+2026-02-27,CMP-0310,Instagram | Newsletter Growth 0310,Instagram,Home & Lifestyle,Leads,390.31,26119,347,11,798.27
+2026-06-22,CMP-0311,Pinterest | Newsletter Growth 0311,Pinterest,Small Businesses,Leads,641.48,62687,877,17,1813.46
+2026-07-27,CMP-0312,Twitter | Newsletter Growth 0312,Twitter,Young Professionals,Leads,713.28,64257,615,18,1430.71
+2026-03-13,CMP-0313,Facebook | Brand Discovery 0313,Facebook,Parents,Awareness,468.54,34779,236,1,55.06
+2026-05-17,CMP-0314,Instagram | Brand Discovery 0314,Instagram,Home & Lifestyle,Awareness,881.76,66191,684,3,180.54
+2026-05-01,CMP-0315,Pinterest | Brand Discovery 0315,Pinterest,Small Businesses,Awareness,152.12,16866,139,1,56.44
+2026-06-09,CMP-0316,Twitter | Brand Discovery 0316,Twitter,Young Professionals,Awareness,549.04,47880,546,3,148.4
+2026-03-10,CMP-0317,Facebook | New Visitors 0317,Facebook,Home & Lifestyle,Traffic,469.07,39371,764,7,546.78
+2026-08-30,CMP-0318,Instagram | New Visitors 0318,Instagram,Small Businesses,Traffic,813.9,53505,966,12,929.17
+2026-02-11,CMP-0319,Pinterest | New Visitors 0319,Pinterest,Young Professionals,Traffic,463.33,45756,651,9,535.81
+2026-09-16,CMP-0320,Twitter | New Visitors 0320,Twitter,Parents,Traffic,263.72,23623,298,4,279.67
+2026-04-16,CMP-0321,Facebook | Lead Builder 0321,Facebook,Small Businesses,Leads,643.35,53506,799,20,1485.07
+2026-03-09,CMP-0322,Instagram | Lead Builder 0322,Instagram,Young Professionals,Leads,534.24,38416,360,9,942.12
+2026-01-12,CMP-0323,Pinterest | Lead Builder 0323,Pinterest,Parents,Leads,376.32,34511,480,13,959.85
+2026-06-26,CMP-0324,Twitter | Lead Builder 0324,Twitter,Home & Lifestyle,Leads,555.53,49702,467,16,1791.02
+2026-08-30,CMP-0325,Facebook | Core Sales 0325,Facebook,Young Professionals,Sales,160.35,13630,208,6,930.19
+2026-08-04,CMP-0326,Instagram | Core Sales 0326,Instagram,Parents,Sales,475.8,30600,396,12,1454.81
+2026-02-11,CMP-0327,Pinterest | Core Sales 0327,Pinterest,Home & Lifestyle,Sales,568.92,54251,738,19,2271.68
+2026-04-02,CMP-0328,Twitter | Core Sales 0328,Twitter,Small Businesses,Sales,743.4,69235,738,23,3380.05
+2026-01-12,CMP-0329,Facebook | Seasonal Offers 0329,Facebook,Parents,Sales,834.3,69874,1041,23,2790.69
+2026-04-28,CMP-0330,Instagram | Seasonal Offers 0330,Instagram,Home & Lifestyle,Sales,324.74,24075,282,9,1267.04
+2026-02-27,CMP-0331,Pinterest | Seasonal Offers 0331,Pinterest,Small Businesses,Sales,132.04,12596,178,5,750.04
+2026-05-04,CMP-0332,Twitter | Seasonal Offers 0332,Twitter,Young Professionals,Sales,237.99,24113,241,6,837.36
+2026-01-25,CMP-0333,Facebook | Newsletter Growth 0333,Facebook,Home & Lifestyle,Leads,298.66,28220,336,9,922.97
+2026-01-29,CMP-0334,Instagram | Newsletter Growth 0334,Instagram,Small Businesses,Leads,240.08,15066,159,5,476.66
+2026-06-14,CMP-0335,Pinterest | Newsletter Growth 0335,Pinterest,Young Professionals,Leads,269.5,24354,378,10,887.49
+2026-05-21,CMP-0336,Twitter | Newsletter Growth 0336,Twitter,Parents,Leads,144.76,11686,173,6,584.12
+2026-08-07,CMP-0337,Facebook | Brand Discovery 0337,Facebook,Home & Lifestyle,Awareness,588.86,55595,470,3,160.3
+2026-09-26,CMP-0338,Instagram | Brand Discovery 0338,Instagram,Small Businesses,Awareness,426.6,31017,232,1,62.67
+2026-08-31,CMP-0339,Pinterest | Brand Discovery 0339,Pinterest,Young Professionals,Awareness,304.9,32755,360,2,110.92
+2026-01-30,CMP-0340,Twitter | Brand Discovery 0340,Twitter,Parents,Awareness,466.88,37518,357,2,100.02
+2026-04-15,CMP-0341,Facebook | New Visitors 0341,Facebook,Small Businesses,Traffic,361.09,33759,505,5,364.36
+2026-04-08,CMP-0342,Instagram | New Visitors 0342,Instagram,Young Professionals,Traffic,170.23,12512,203,1,58.29
+2026-04-22,CMP-0343,Pinterest | New Visitors 0343,Pinterest,Parents,Traffic,432.36,39136,548,8,451.86
+2026-04-08,CMP-0344,Twitter | New Visitors 0344,Twitter,Home & Lifestyle,Traffic,723.64,72959,1422,15,954.63
+2026-04-15,CMP-0345,Facebook | Lead Builder 0345,Facebook,Young Professionals,Leads,409.54,36516,406,9,817.95
+2026-07-03,CMP-0346,Instagram | Lead Builder 0346,Instagram,Parents,Leads,417.49,30835,457,12,1254.17
+2026-08-29,CMP-0347,Pinterest | Lead Builder 0347,Pinterest,Home & Lifestyle,Leads,696.54,72825,753,17,1255.48
+2026-04-24,CMP-0348,Twitter | Lead Builder 0348,Twitter,Small Businesses,Leads,581.78,60488,765,21,2124.37
+2026-06-01,CMP-0349,Facebook | Core Sales 0349,Facebook,Parents,Sales,231.26,20094,250,7,896.6
+2026-06-22,CMP-0350,Instagram | Core Sales 0350,Instagram,Home & Lifestyle,Sales,332.48,21751,362,9,1148.36
+2026-03-28,CMP-0351,Pinterest | Core Sales 0351,Pinterest,Small Businesses,Sales,602.53,62433,671,16,1765.64
+2026-01-31,CMP-0352,Twitter | Core Sales 0352,Twitter,Young Professionals,Sales,442.18,36659,377,11,1130.02
+2026-01-04,CMP-0353,Facebook | Seasonal Offers 0353,Facebook,Home & Lifestyle,Sales,421.05,31971,365,10,1005.14
+2026-09-16,CMP-0354,Instagram | Seasonal Offers 0354,Instagram,Small Businesses,Sales,547.81,44148,632,19,2875.5
+2026-09-07,CMP-0355,Pinterest | Seasonal Offers 0355,Pinterest,Young Professionals,Sales,135.48,13365,170,2,281.25
+2026-05-27,CMP-0356,Twitter | Seasonal Offers 0356,Twitter,Parents,Sales,116.61,9730,142,4,604.7
+2026-02-24,CMP-0357,Facebook | Newsletter Growth 0357,Facebook,Small Businesses,Leads,790.18,65094,689,20,1644.46
+2026-07-01,CMP-0358,Instagram | Newsletter Growth 0358,Instagram,Young Professionals,Leads,381.2,27865,319,8,759.06
+2026-04-26,CMP-0359,Pinterest | Newsletter Growth 0359,Pinterest,Parents,Leads,311.86,28517,272,10,983.21
+2026-01-17,CMP-0360,Twitter | Newsletter Growth 0360,Twitter,Home & Lifestyle,Leads,165.66,15487,196,3,217.15
+2026-03-29,CMP-0361,Facebook | Brand Discovery 0361,Facebook,Small Businesses,Awareness,180.36,13686,136,1,68.19
+2026-02-18,CMP-0362,Instagram | Brand Discovery 0362,Instagram,Young Professionals,Awareness,835.05,53343,421,3,183.4
+2026-09-01,CMP-0363,Pinterest | Brand Discovery 0363,Pinterest,Parents,Awareness,327.56,29259,297,2,114.88
+2026-01-17,CMP-0364,Twitter | Brand Discovery 0364,Twitter,Home & Lifestyle,Awareness,220.82,18256,125,1,47.57
+2026-07-23,CMP-0365,Facebook | New Visitors 0365,Facebook,Young Professionals,Traffic,893.85,78342,1246,14,1158.6
+2026-06-19,CMP-0366,Instagram | New Visitors 0366,Instagram,Parents,Traffic,432.22,28860,513,6,350.82
+2026-06-27,CMP-0367,Pinterest | New Visitors 0367,Pinterest,Home & Lifestyle,Traffic,146.46,14824,269,2,160.45
+2026-07-23,CMP-0368,Twitter | New Visitors 0368,Twitter,Small Businesses,Traffic,815.4,77367,1275,16,1123.08
+2026-04-27,CMP-0369,Facebook | Lead Builder 0369,Facebook,Parents,Leads,379.74,28151,334,10,987.57
+2026-02-13,CMP-0370,Instagram | Lead Builder 0370,Instagram,Home & Lifestyle,Leads,738.38,55532,590,10,828.53
+2026-07-14,CMP-0371,Pinterest | Lead Builder 0371,Pinterest,Small Businesses,Leads,658.97,63292,879,20,1526.31
+2026-01-03,CMP-0372,Twitter | Lead Builder 0372,Twitter,Young Professionals,Leads,711.36,65317,916,17,1284.1
+2026-08-09,CMP-0373,Facebook | Core Sales 0373,Facebook,Home & Lifestyle,Sales,501.37,40970,519,8,959.26
+2026-02-17,CMP-0374,Instagram | Core Sales 0374,Instagram,Small Businesses,Sales,600.22,39631,631,9,1109.49
+2026-02-13,CMP-0375,Pinterest | Core Sales 0375,Pinterest,Young Professionals,Sales,597.21,58488,985,18,2327.62
+2026-07-14,CMP-0376,Twitter | Core Sales 0376,Twitter,Parents,Sales,240.23,23169,270,5,547.03
+2026-05-22,CMP-0377,Facebook | Seasonal Offers 0377,Facebook,Small Businesses,Sales,427.4,35590,367,7,797.09
+2026-09-11,CMP-0378,Instagram | Seasonal Offers 0378,Instagram,Young Professionals,Sales,669.49,51821,545,11,1687.08
+2026-06-20,CMP-0379,Pinterest | Seasonal Offers 0379,Pinterest,Parents,Sales,675.63,69469,1106,24,2981.33
+2026-03-11,CMP-0380,Twitter | Seasonal Offers 0380,Twitter,Home & Lifestyle,Sales,298.6,26282,387,9,989.93
+2026-07-23,CMP-0381,Facebook | Newsletter Growth 0381,Facebook,Young Professionals,Leads,926.43,81378,1106,29,2764.37
+2026-05-05,CMP-0382,Instagram | Newsletter Growth 0382,Instagram,Parents,Leads,386.53,29195,414,10,1097.49
+2026-04-13,CMP-0383,Pinterest | Newsletter Growth 0383,Pinterest,Home & Lifestyle,Leads,508.14,49949,674,18,1990.74
+2026-08-25,CMP-0384,Twitter | Newsletter Growth 0384,Twitter,Small Businesses,Leads,796.73,78167,1115,37,2767.63
+2026-07-29,CMP-0385,Facebook | Brand Discovery 0385,Facebook,Young Professionals,Awareness,684.63,62862,519,3,143.45
+2026-08-05,CMP-0386,Instagram | Brand Discovery 0386,Instagram,Parents,Awareness,841.91,67571,787,5,269.6
+2026-09-17,CMP-0387,Pinterest | Brand Discovery 0387,Pinterest,Home & Lifestyle,Awareness,818.29,74067,653,3,203.91
+2026-02-13,CMP-0388,Twitter | Brand Discovery 0388,Twitter,Small Businesses,Awareness,175.86,17062,171,1,59.16
+2026-07-24,CMP-0389,Facebook | New Visitors 0389,Facebook,Parents,Traffic,924.86,80322,1431,11,650.17
+2026-04-24,CMP-0390,Instagram | New Visitors 0390,Instagram,Home & Lifestyle,Traffic,532.22,37637,604,7,490.29
+2026-07-20,CMP-0391,Pinterest | New Visitors 0391,Pinterest,Small Businesses,Traffic,471.96,44800,759,6,524.57
+2026-09-05,CMP-0392,Twitter | New Visitors 0392,Twitter,Young Professionals,Traffic,193.49,17907,344,3,256.89
+2026-03-14,CMP-0393,Facebook | Lead Builder 0393,Facebook,Home & Lifestyle,Leads,374.28,32401,459,12,1033.27
+2026-02-19,CMP-0394,Instagram | Lead Builder 0394,Instagram,Small Businesses,Leads,475.05,32068,356,8,838.5
+2026-02-28,CMP-0395,Pinterest | Lead Builder 0395,Pinterest,Young Professionals,Leads,125.57,13044,127,4,438.65
+2026-05-05,CMP-0396,Twitter | Lead Builder 0396,Twitter,Parents,Leads,437.07,38992,436,11,997.85
+2026-07-27,CMP-0397,Facebook | Core Sales 0397,Facebook,Small Businesses,Sales,649.29,58792,850,18,2546.61
+2026-04-12,CMP-0398,Instagram | Core Sales 0398,Instagram,Young Professionals,Sales,484.04,35066,343,6,693.94
+2026-02-02,CMP-0399,Pinterest | Core Sales 0399,Pinterest,Parents,Sales,498.15,45876,623,13,1444.11
+2026-02-28,CMP-0400,Twitter | Core Sales 0400,Twitter,Home & Lifestyle,Sales,274.14,22596,306,8,1068.64
+2026-07-20,CMP-0401,Facebook | Seasonal Offers 0401,Facebook,Young Professionals,Sales,614.34,53110,839,21,3061.23
+2026-06-02,CMP-0402,Instagram | Seasonal Offers 0402,Instagram,Parents,Sales,853.89,59253,862,17,1928.14
+2026-03-01,CMP-0403,Pinterest | Seasonal Offers 0403,Pinterest,Home & Lifestyle,Sales,233.33,22070,296,6,646.53
+2026-07-16,CMP-0404,Twitter | Seasonal Offers 0404,Twitter,Small Businesses,Sales,422.64,38368,522,16,2437.63
+2026-03-30,CMP-0405,Facebook | Newsletter Growth 0405,Facebook,Parents,Leads,525.09,43661,433,10,902.66
+2026-01-28,CMP-0406,Instagram | Newsletter Growth 0406,Instagram,Home & Lifestyle,Leads,811.98,51463,628,13,1138.15
+2026-09-16,CMP-0407,Pinterest | Newsletter Growth 0407,Pinterest,Small Businesses,Leads,614.88,62713,768,23,2069.45
+2026-03-27,CMP-0408,Twitter | Newsletter Growth 0408,Twitter,Young Professionals,Leads,158.71,16427,230,5,415.66
+2026-05-28,CMP-0409,Facebook | Brand Discovery 0409,Facebook,Parents,Awareness,242.79,20365,212,2,115.21
+2026-02-27,CMP-0410,Instagram | Brand Discovery 0410,Instagram,Home & Lifestyle,Awareness,581.13,44050,416,4,229.66
+2026-01-22,CMP-0411,Pinterest | Brand Discovery 0411,Pinterest,Small Businesses,Awareness,620.82,62762,492,3,186.65
+2026-05-07,CMP-0412,Twitter | Brand Discovery 0412,Twitter,Young Professionals,Awareness,296.85,23676,213,1,64.21
+2026-08-13,CMP-0413,Facebook | New Visitors 0413,Facebook,Home & Lifestyle,Traffic,841.86,77804,1396,11,871.58
+2026-06-29,CMP-0414,Instagram | New Visitors 0414,Instagram,Small Businesses,Traffic,808.45,55806,825,9,726.5
+2026-04-16,CMP-0415,Pinterest | New Visitors 0415,Pinterest,Young Professionals,Traffic,651.33,63611,995,11,674.34
+2026-05-30,CMP-0416,Twitter | New Visitors 0416,Twitter,Parents,Traffic,291.47,28123,515,7,541.79
+2026-02-18,CMP-0417,Facebook | Lead Builder 0417,Facebook,Small Businesses,Leads,218.98,17014,199,3,249.69
+2026-03-06,CMP-0418,Instagram | Lead Builder 0418,Instagram,Young Professionals,Leads,682.6,53826,536,12,984.31
+2026-07-21,CMP-0419,Pinterest | Lead Builder 0419,Pinterest,Parents,Leads,491.81,47939,516,13,1173.97
+2026-02-17,CMP-0420,Twitter | Lead Builder 0420,Twitter,Home & Lifestyle,Leads,364.39,30889,420,14,1265.81
+2026-09-07,CMP-0421,Facebook | Core Sales 0421,Facebook,Young Professionals,Sales,401.99,38475,588,16,2257.84
+2026-08-23,CMP-0422,Instagram | Core Sales 0422,Instagram,Parents,Sales,705.72,47633,754,21,2569.8
+2026-08-08,CMP-0423,Pinterest | Core Sales 0423,Pinterest,Home & Lifestyle,Sales,744.09,74144,894,17,2223.37
+2026-03-08,CMP-0424,Twitter | Core Sales 0424,Twitter,Small Businesses,Sales,469.29,42618,520,14,1438.12
+2026-02-20,CMP-0425,Facebook | Seasonal Offers 0425,Facebook,Parents,Sales,577.11,43884,433,13,1415.53
+2026-08-22,CMP-0426,Instagram | Seasonal Offers 0426,Instagram,Home & Lifestyle,Sales,145.75,9224,103,3,322.26
+2026-06-04,CMP-0427,Pinterest | Seasonal Offers 0427,Pinterest,Small Businesses,Sales,217.17,19358,227,6,684.51
+2026-07-10,CMP-0428,Twitter | Seasonal Offers 0428,Twitter,Young Professionals,Sales,596.38,51871,525,13,1830.88
+2026-04-30,CMP-0429,Facebook | Newsletter Growth 0429,Facebook,Home & Lifestyle,Leads,433.34,40365,389,8,601.25
+2026-04-26,CMP-0430,Instagram | Newsletter Growth 0430,Instagram,Small Businesses,Leads,539.13,38892,352,8,615.07
+2026-08-05,CMP-0431,Pinterest | Newsletter Growth 0431,Pinterest,Young Professionals,Leads,645.69,64635,679,12,1255.7
+2026-02-22,CMP-0432,Twitter | Newsletter Growth 0432,Twitter,Parents,Leads,306.9,25184,249,8,820.02
+2026-03-10,CMP-0433,Facebook | Brand Discovery 0433,Facebook,Home & Lifestyle,Awareness,588.35,46569,330,2,118.21
+2026-03-26,CMP-0434,Instagram | Brand Discovery 0434,Instagram,Small Businesses,Awareness,476.57,31961,315,1,54.19
+2026-08-15,CMP-0435,Pinterest | Brand Discovery 0435,Pinterest,Young Professionals,Awareness,770.5,86243,625,5,292.96
+2026-07-16,CMP-0436,Twitter | Brand Discovery 0436,Twitter,Parents,Awareness,371.2,34227,365,2,119.91
+2026-05-08,CMP-0437,Facebook | New Visitors 0437,Facebook,Small Businesses,Traffic,523.98,42311,688,9,699.75
+2026-06-04,CMP-0438,Instagram | New Visitors 0438,Instagram,Young Professionals,Traffic,291.57,20144,258,2,152.71
+2026-05-03,CMP-0439,Pinterest | New Visitors 0439,Pinterest,Parents,Traffic,442.77,49173,756,9,653.77
+2026-01-07,CMP-0440,Twitter | New Visitors 0440,Twitter,Home & Lifestyle,Traffic,739.57,59915,739,10,739.04
+2026-07-07,CMP-0441,Facebook | Lead Builder 0441,Facebook,Young Professionals,Leads,581.1,52828,640,23,1723.99
+2026-02-04,CMP-0442,Instagram | Lead Builder 0442,Instagram,Parents,Leads,140.47,10809,163,6,528.71
+2026-05-27,CMP-0443,Pinterest | Lead Builder 0443,Pinterest,Home & Lifestyle,Leads,532.55,52975,622,19,1431.43
+2026-03-20,CMP-0444,Twitter | Lead Builder 0444,Twitter,Small Businesses,Leads,283.85,27058,335,7,733.09
+2026-06-17,CMP-0445,Facebook | Core Sales 0445,Facebook,Parents,Sales,405.23,32431,510,13,1348.35
+2026-08-12,CMP-0446,Instagram | Core Sales 0446,Instagram,Home & Lifestyle,Sales,789.71,51348,522,8,995.52
+2026-08-21,CMP-0447,Pinterest | Core Sales 0447,Pinterest,Small Businesses,Sales,584.21,66023,958,25,2747.0
+2026-01-07,CMP-0448,Twitter | Core Sales 0448,Twitter,Young Professionals,Sales,560.36,48085,525,16,2070.7
+2026-05-13,CMP-0449,Facebook | Seasonal Offers 0449,Facebook,Home & Lifestyle,Sales,241.88,22291,342,7,1049.03
+2026-01-16,CMP-0450,Instagram | Seasonal Offers 0450,Instagram,Small Businesses,Sales,393.72,28525,385,7,1083.93
+2026-02-09,CMP-0451,Pinterest | Seasonal Offers 0451,Pinterest,Young Professionals,Sales,443.61,44013,447,13,1422.03
+2026-03-22,CMP-0452,Twitter | Seasonal Offers 0452,Twitter,Parents,Sales,269.49,27288,378,10,1128.48
+2026-09-18,CMP-0453,Facebook | Newsletter Growth 0453,Facebook,Small Businesses,Leads,136.5,10324,94,2,173.48
+2026-03-18,CMP-0454,Instagram | Newsletter Growth 0454,Instagram,Young Professionals,Leads,270.69,17121,158,5,504.59
+2026-08-03,CMP-0455,Pinterest | Newsletter Growth 0455,Pinterest,Parents,Leads,292.53,31219,470,11,1159.98
+2026-07-10,CMP-0456,Twitter | Newsletter Growth 0456,Twitter,Home & Lifestyle,Leads,204.18,17648,165,3,278.67
+2026-01-24,CMP-0457,Facebook | Brand Discovery 0457,Facebook,Small Businesses,Awareness,816.48,76569,693,4,259.64
+2026-06-17,CMP-0458,Instagram | Brand Discovery 0458,Instagram,Young Professionals,Awareness,197.71,14217,122,1,63.42
+2026-05-05,CMP-0459,Pinterest | Brand Discovery 0459,Pinterest,Parents,Awareness,421.97,40978,377,3,146.51
+2026-05-06,CMP-0460,Twitter | Brand Discovery 0460,Twitter,Home & Lifestyle,Awareness,202.32,16396,113,1,59.74
+2026-01-05,CMP-0461,Facebook | New Visitors 0461,Facebook,Young Professionals,Traffic,814.22,77955,1300,17,1341.42
+2026-02-23,CMP-0462,Instagram | New Visitors 0462,Instagram,Parents,Traffic,291.38,18330,270,4,346.54
+2026-03-14,CMP-0463,Pinterest | New Visitors 0463,Pinterest,Home & Lifestyle,Traffic,588.35,65729,1239,17,1230.33
+2026-07-10,CMP-0464,Twitter | New Visitors 0464,Twitter,Small Businesses,Traffic,448.13,38005,610,6,456.43
+2026-07-21,CMP-0465,Facebook | Lead Builder 0465,Facebook,Parents,Leads,195.58,15927,189,7,571.12
+2026-05-14,CMP-0466,Instagram | Lead Builder 0466,Instagram,Home & Lifestyle,Leads,800.46,51048,592,19,1619.05
+2026-08-20,CMP-0467,Pinterest | Lead Builder 0467,Pinterest,Small Businesses,Leads,328.21,36871,381,12,1148.17
+2026-03-21,CMP-0468,Twitter | Lead Builder 0468,Twitter,Young Professionals,Leads,173.47,15907,176,3,259.53
+2026-04-17,CMP-0469,Facebook | Core Sales 0469,Facebook,Home & Lifestyle,Sales,449.9,37676,597,9,1308.85
+2026-06-05,CMP-0470,Instagram | Core Sales 0470,Instagram,Small Businesses,Sales,781.12,52728,529,15,1776.58
+2026-02-16,CMP-0471,Pinterest | Core Sales 0471,Pinterest,Young Professionals,Sales,588.01,51969,654,10,1168.1
+2026-03-31,CMP-0472,Twitter | Core Sales 0472,Twitter,Parents,Sales,125.57,11658,151,4,456.22
+2026-08-25,CMP-0473,Facebook | Seasonal Offers 0473,Facebook,Small Businesses,Sales,217.72,16732,178,3,431.79
+2026-04-24,CMP-0474,Instagram | Seasonal Offers 0474,Instagram,Young Professionals,Sales,232.66,15213,189,5,681.32
+2026-05-13,CMP-0475,Pinterest | Seasonal Offers 0475,Pinterest,Parents,Sales,726.55,81612,1378,25,3408.42
+2026-03-07,CMP-0476,Twitter | Seasonal Offers 0476,Twitter,Home & Lifestyle,Sales,164.69,13626,212,3,459.01
+2026-01-26,CMP-0477,Facebook | Newsletter Growth 0477,Facebook,Young Professionals,Leads,242.63,19727,285,7,512.36
+2026-08-07,CMP-0478,Instagram | Newsletter Growth 0478,Instagram,Parents,Leads,297.74,22918,235,5,538.89
+2026-01-18,CMP-0479,Pinterest | Newsletter Growth 0479,Pinterest,Home & Lifestyle,Leads,522.83,50438,669,18,1939.55
+2026-09-03,CMP-0480,Twitter | Newsletter Growth 0480,Twitter,Small Businesses,Leads,162.15,15590,154,3,323.49
+2026-09-27,CMP-0481,Facebook | Brand Discovery 0481,Facebook,Young Professionals,Awareness,338.1,24750,234,1,53.47
+2026-07-03,CMP-0482,Instagram | Brand Discovery 0482,Instagram,Parents,Awareness,568.72,37579,318,2,103.92
+2026-05-19,CMP-0483,Pinterest | Brand Discovery 0483,Pinterest,Home & Lifestyle,Awareness,231.16,24177,189,2,126.54
+2026-01-30,CMP-0484,Twitter | Brand Discovery 0484,Twitter,Small Businesses,Awareness,625.08,56976,485,3,149.28
+2026-03-23,CMP-0485,Facebook | New Visitors 0485,Facebook,Parents,Traffic,193.1,15364,207,3,254.68
+2026-01-29,CMP-0486,Instagram | New Visitors 0486,Instagram,Home & Lifestyle,Traffic,731.98,46437,743,11,750.59
+2026-03-30,CMP-0487,Pinterest | New Visitors 0487,Pinterest,Small Businesses,Traffic,228.67,22201,397,5,423.95
+2026-01-15,CMP-0488,Twitter | New Visitors 0488,Twitter,Young Professionals,Traffic,557.5,52523,837,6,515.24
+2026-09-10,CMP-0489,Facebook | Lead Builder 0489,Facebook,Home & Lifestyle,Leads,577.64,52471,485,8,770.94
+2026-01-11,CMP-0490,Instagram | Lead Builder 0490,Instagram,Small Businesses,Leads,544.65,44707,673,14,1081.99
+2026-04-01,CMP-0491,Pinterest | Lead Builder 0491,Pinterest,Young Professionals,Leads,727.45,66255,738,12,1149.09
+2026-03-14,CMP-0492,Twitter | Lead Builder 0492,Twitter,Parents,Leads,603.05,49905,733,26,2265.39
+2026-07-22,CMP-0493,Facebook | Core Sales 0493,Facebook,Small Businesses,Sales,613.53,53210,642,20,2823.9
+2026-08-12,CMP-0494,Instagram | Core Sales 0494,Instagram,Young Professionals,Sales,844.36,53402,769,13,2008.39
+2026-07-02,CMP-0495,Pinterest | Core Sales 0495,Pinterest,Parents,Sales,291.57,28335,312,6,832.37
+2026-03-07,CMP-0496,Twitter | Core Sales 0496,Twitter,Home & Lifestyle,Sales,219.76,22951,339,8,1182.84
+2026-01-17,CMP-0497,Facebook | Seasonal Offers 0497,Facebook,Young Professionals,Sales,252.92,22049,342,9,1223.82
+2026-02-23,CMP-0498,Instagram | Seasonal Offers 0498,Instagram,Parents,Sales,868.08,68290,1030,19,2949.92
+2026-03-27,CMP-0499,Pinterest | Seasonal Offers 0499,Pinterest,Home & Lifestyle,Sales,537.66,47579,743,19,2679.42
+2026-06-21,CMP-0500,Twitter | Seasonal Offers 0500,Twitter,Small Businesses,Sales,392.52,37897,437,7,801.06
+2026-02-25,CMP-0501,Facebook | Newsletter Growth 0501,Facebook,Parents,Leads,645.9,60957,725,18,1417.26
+2026-07-31,CMP-0502,Instagram | Newsletter Growth 0502,Instagram,Home & Lifestyle,Leads,580.55,42651,538,10,914.19
+2026-04-26,CMP-0503,Pinterest | Newsletter Growth 0503,Pinterest,Small Businesses,Leads,219.64,24681,360,8,679.26
+2026-02-23,CMP-0504,Twitter | Newsletter Growth 0504,Twitter,Young Professionals,Leads,153.27,15213,175,5,470.78
+2026-02-17,CMP-0505,Facebook | Brand Discovery 0505,Facebook,Parents,Awareness,366.7,26899,301,2,109.35
+2026-03-26,CMP-0506,Instagram | Brand Discovery 0506,Instagram,Home & Lifestyle,Awareness,608.41,44020,309,2,136.23
+2026-07-29,CMP-0507,Pinterest | Brand Discovery 0507,Pinterest,Small Businesses,Awareness,648.07,60854,631,3,152.9
+2026-05-02,CMP-0508,Twitter | Brand Discovery 0508,Twitter,Young Professionals,Awareness,167.22,15574,147,1,45.35
+2026-01-02,CMP-0509,Facebook | New Visitors 0509,Facebook,Home & Lifestyle,Traffic,432.15,37927,634,7,436.03
+2026-01-14,CMP-0510,Instagram | New Visitors 0510,Instagram,Small Businesses,Traffic,292.76,20063,387,4,238.55
+2026-07-23,CMP-0511,Pinterest | New Visitors 0511,Pinterest,Young Professionals,Traffic,477.89,42991,578,7,477.45
+2026-07-09,CMP-0512,Twitter | New Visitors 0512,Twitter,Parents,Traffic,755.37,70813,1057,9,635.84
+2026-04-26,CMP-0513,Facebook | Lead Builder 0513,Facebook,Small Businesses,Leads,731.07,59591,596,18,1366.5
+2026-06-26,CMP-0514,Instagram | Lead Builder 0514,Instagram,Young Professionals,Leads,766.77,55786,781,16,1191.52
+2026-07-18,CMP-0515,Pinterest | Lead Builder 0515,Pinterest,Parents,Leads,739.25,75201,943,32,2919.37
+2026-05-01,CMP-0516,Twitter | Lead Builder 0516,Twitter,Home & Lifestyle,Leads,411.55,41976,628,19,1754.37
+2026-09-22,CMP-0517,Facebook | Core Sales 0517,Facebook,Young Professionals,Sales,788.85,62433,886,15,2138.88
+2026-03-30,CMP-0518,Instagram | Core Sales 0518,Instagram,Parents,Sales,877.84,68518,772,14,1433.61
+2026-02-10,CMP-0519,Pinterest | Core Sales 0519,Pinterest,Home & Lifestyle,Sales,774.13,78388,1323,34,4995.23
+2026-05-13,CMP-0520,Twitter | Core Sales 0520,Twitter,Small Businesses,Sales,311.01,26515,412,7,919.07
+2026-06-16,CMP-0521,Facebook | Seasonal Offers 0521,Facebook,Parents,Sales,745.34,61477,1003,15,2090.97
+2026-09-25,CMP-0522,Instagram | Seasonal Offers 0522,Instagram,Home & Lifestyle,Sales,835.39,66273,717,17,2257.18
+2026-02-21,CMP-0523,Pinterest | Seasonal Offers 0523,Pinterest,Small Businesses,Sales,731.58,71588,750,15,1951.94
+2026-06-26,CMP-0524,Twitter | Seasonal Offers 0524,Twitter,Young Professionals,Sales,669.56,64664,933,23,2912.0
+2026-03-30,CMP-0525,Facebook | Newsletter Growth 0525,Facebook,Home & Lifestyle,Leads,321.05,29438,383,12,882.85
+2026-06-19,CMP-0526,Instagram | Newsletter Growth 0526,Instagram,Small Businesses,Leads,674.0,54503,661,14,1219.17
+2026-06-22,CMP-0527,Pinterest | Newsletter Growth 0527,Pinterest,Young Professionals,Leads,659.36,69273,752,20,2003.91
+2026-02-20,CMP-0528,Twitter | Newsletter Growth 0528,Twitter,Parents,Leads,730.33,71272,783,24,2480.36
+2026-06-14,CMP-0529,Facebook | Brand Discovery 0529,Facebook,Home & Lifestyle,Awareness,316.68,26859,267,1,49.23
+2026-07-28,CMP-0530,Instagram | Brand Discovery 0530,Instagram,Small Businesses,Awareness,799.41,53114,587,5,283.76
+2026-03-23,CMP-0531,Pinterest | Brand Discovery 0531,Pinterest,Young Professionals,Awareness,154.47,14551,127,1,56.98
+2026-01-15,CMP-0532,Twitter | Brand Discovery 0532,Twitter,Parents,Awareness,217.21,17849,138,1,44.82
+2026-01-26,CMP-0533,Facebook | New Visitors 0533,Facebook,Small Businesses,Traffic,790.16,62105,839,11,791.03
+2026-03-05,CMP-0534,Instagram | New Visitors 0534,Instagram,Young Professionals,Traffic,666.64,50910,778,8,690.05
+2026-08-31,CMP-0535,Pinterest | New Visitors 0535,Pinterest,Parents,Traffic,565.09,58593,738,10,795.92
+2026-02-16,CMP-0536,Twitter | New Visitors 0536,Twitter,Home & Lifestyle,Traffic,288.73,26939,339,4,345.58
+2026-04-24,CMP-0537,Facebook | Lead Builder 0537,Facebook,Young Professionals,Leads,592.59,46898,505,12,873.75
+2026-01-05,CMP-0538,Instagram | Lead Builder 0538,Instagram,Parents,Leads,503.38,39698,403,13,1053.81
+2026-06-06,CMP-0539,Pinterest | Lead Builder 0539,Pinterest,Home & Lifestyle,Leads,589.08,55494,600,20,2129.78
+2026-08-24,CMP-0540,Twitter | Lead Builder 0540,Twitter,Small Businesses,Leads,299.58,27344,368,12,1057.02
+2026-02-22,CMP-0541,Facebook | Core Sales 0541,Facebook,Parents,Sales,125.36,9165,153,4,526.33
+2026-05-25,CMP-0542,Instagram | Core Sales 0542,Instagram,Home & Lifestyle,Sales,364.92,28988,296,9,1224.3
+2026-05-22,CMP-0543,Pinterest | Core Sales 0543,Pinterest,Small Businesses,Sales,285.79,26911,434,8,867.47
+2026-05-04,CMP-0544,Twitter | Core Sales 0544,Twitter,Young Professionals,Sales,683.56,57144,885,22,3017.41
+2026-03-13,CMP-0545,Facebook | Seasonal Offers 0545,Facebook,Home & Lifestyle,Sales,646.54,51462,869,16,1976.71
+2026-07-18,CMP-0546,Instagram | Seasonal Offers 0546,Instagram,Small Businesses,Sales,795.69,55318,933,27,3221.18
+2026-04-24,CMP-0547,Pinterest | Seasonal Offers 0547,Pinterest,Young Professionals,Sales,571.33,54812,721,22,2643.64
+2026-06-03,CMP-0548,Twitter | Seasonal Offers 0548,Twitter,Parents,Sales,648.7,53760,861,15,1582.35
+2026-03-07,CMP-0549,Facebook | Newsletter Growth 0549,Facebook,Small Businesses,Leads,660.87,51672,656,23,2538.06
+2026-06-21,CMP-0550,Instagram | Newsletter Growth 0550,Instagram,Young Professionals,Leads,645.56,49582,519,17,1513.5
+2026-06-19,CMP-0551,Pinterest | Newsletter Growth 0551,Pinterest,Parents,Leads,360.02,35018,422,8,593.39
+2026-02-06,CMP-0552,Twitter | Newsletter Growth 0552,Twitter,Home & Lifestyle,Leads,408.95,40299,395,12,1121.5
+2026-07-31,CMP-0553,Facebook | Brand Discovery 0553,Facebook,Small Businesses,Awareness,178.6,13522,100,0,0.0
+2026-08-23,CMP-0554,Instagram | Brand Discovery 0554,Instagram,Young Professionals,Awareness,271.62,17592,134,1,52.23
+2026-04-01,CMP-0555,Pinterest | Brand Discovery 0555,Pinterest,Parents,Awareness,320.89,36232,326,2,126.29
+2026-03-23,CMP-0556,Twitter | Brand Discovery 0556,Twitter,Home & Lifestyle,Awareness,420.1,35488,255,2,119.36
+2026-07-26,CMP-0557,Facebook | New Visitors 0557,Facebook,Young Professionals,Traffic,485.17,40475,457,5,395.08
+2026-01-08,CMP-0558,Instagram | New Visitors 0558,Instagram,Parents,Traffic,832.86,55373,866,6,336.78
+2026-05-08,CMP-0559,Pinterest | New Visitors 0559,Pinterest,Home & Lifestyle,Traffic,262.36,23705,328,2,143.71
+2026-06-06,CMP-0560,Twitter | New Visitors 0560,Twitter,Small Businesses,Traffic,212.89,17716,243,2,157.85
+2026-09-26,CMP-0561,Facebook | Lead Builder 0561,Facebook,Parents,Leads,410.61,30833,480,11,1193.57
+2026-07-03,CMP-0562,Instagram | Lead Builder 0562,Instagram,Home & Lifestyle,Leads,807.51,63071,945,31,2256.01
+2026-04-25,CMP-0563,Pinterest | Lead Builder 0563,Pinterest,Small Businesses,Leads,598.77,66131,916,26,2049.94
+2026-07-07,CMP-0564,Twitter | Lead Builder 0564,Twitter,Young Professionals,Leads,629.91,52833,606,18,1858.24
+2026-01-25,CMP-0565,Facebook | Core Sales 0565,Facebook,Home & Lifestyle,Sales,553.56,52245,550,16,1643.41
+2026-03-01,CMP-0566,Instagram | Core Sales 0566,Instagram,Small Businesses,Sales,458.19,33647,460,10,1086.13
+2026-01-05,CMP-0567,Pinterest | Core Sales 0567,Pinterest,Young Professionals,Sales,312.63,29813,432,8,1072.54
+2026-03-12,CMP-0568,Twitter | Core Sales 0568,Twitter,Parents,Sales,374.65,30611,410,10,1159.02
+2026-02-24,CMP-0569,Facebook | Seasonal Offers 0569,Facebook,Small Businesses,Sales,483.35,38938,596,17,2630.55
+2026-07-03,CMP-0570,Instagram | Seasonal Offers 0570,Instagram,Young Professionals,Sales,766.29,57631,578,13,1451.88
+2026-09-04,CMP-0571,Pinterest | Seasonal Offers 0571,Pinterest,Parents,Sales,372.33,42760,622,19,2792.65
+2026-09-10,CMP-0572,Twitter | Seasonal Offers 0572,Twitter,Home & Lifestyle,Sales,225.58,22931,307,8,845.58
+2026-05-12,CMP-0573,Facebook | Newsletter Growth 0573,Facebook,Young Professionals,Leads,590.37,49528,765,16,1184.45
+2026-03-31,CMP-0574,Instagram | Newsletter Growth 0574,Instagram,Parents,Leads,818.77,53162,605,18,1606.55
+2026-03-01,CMP-0575,Pinterest | Newsletter Growth 0575,Pinterest,Home & Lifestyle,Leads,174.2,16209,151,5,494.33
+2026-03-29,CMP-0576,Twitter | Newsletter Growth 0576,Twitter,Small Businesses,Leads,316.73,25905,396,9,915.2
+2026-07-10,CMP-0577,Facebook | Brand Discovery 0577,Facebook,Young Professionals,Awareness,800.71,72577,634,5,253.64
+2026-07-17,CMP-0578,Instagram | Brand Discovery 0578,Instagram,Parents,Awareness,754.34,53929,477,4,192.51
+2026-03-09,CMP-0579,Pinterest | Brand Discovery 0579,Pinterest,Home & Lifestyle,Awareness,577.95,65244,745,3,162.89
+2026-09-05,CMP-0580,Twitter | Brand Discovery 0580,Twitter,Small Businesses,Awareness,695.49,60035,459,3,158.63
+2026-01-15,CMP-0581,Facebook | New Visitors 0581,Facebook,Parents,Traffic,749.68,56405,973,13,925.82
+2026-09-07,CMP-0582,Instagram | New Visitors 0582,Instagram,Home & Lifestyle,Traffic,244.88,17829,207,2,131.8
+2026-09-26,CMP-0583,Pinterest | New Visitors 0583,Pinterest,Small Businesses,Traffic,700.98,68342,1087,16,1233.6
+2026-06-23,CMP-0584,Twitter | New Visitors 0584,Twitter,Young Professionals,Traffic,439.07,37805,618,6,473.34
+2026-09-04,CMP-0585,Facebook | Lead Builder 0585,Facebook,Home & Lifestyle,Leads,417.08,33020,381,13,1229.97
+2026-01-28,CMP-0586,Instagram | Lead Builder 0586,Instagram,Small Businesses,Leads,138.78,8833,109,3,276.24
+2026-03-26,CMP-0587,Pinterest | Lead Builder 0587,Pinterest,Young Professionals,Leads,160.68,16024,170,6,444.24
+2026-04-25,CMP-0588,Twitter | Lead Builder 0588,Twitter,Parents,Leads,459.24,42941,618,11,989.89
+2026-08-18,CMP-0589,Facebook | Core Sales 0589,Facebook,Small Businesses,Sales,206.37,17119,206,7,993.44
+2026-01-10,CMP-0590,Instagram | Core Sales 0590,Instagram,Young Professionals,Sales,210.52,15323,210,3,315.34
+2026-06-05,CMP-0591,Pinterest | Core Sales 0591,Pinterest,Parents,Sales,708.2,69307,1000,22,2621.81
+2026-01-28,CMP-0592,Twitter | Core Sales 0592,Twitter,Home & Lifestyle,Sales,630.18,52177,633,18,2407.45
+2026-07-06,CMP-0593,Facebook | Seasonal Offers 0593,Facebook,Young Professionals,Sales,719.73,66583,1011,18,2145.62
+2026-05-30,CMP-0594,Instagram | Seasonal Offers 0594,Instagram,Parents,Sales,561.4,41300,434,13,1660.08
+2026-07-29,CMP-0595,Pinterest | Seasonal Offers 0595,Pinterest,Home & Lifestyle,Sales,204.1,19721,219,7,854.7
+2026-08-23,CMP-0596,Twitter | Seasonal Offers 0596,Twitter,Small Businesses,Sales,711.53,70198,854,24,2462.78
+2026-03-05,CMP-0597,Facebook | Newsletter Growth 0597,Facebook,Parents,Leads,683.67,57453,767,27,2091.22
+2026-09-13,CMP-0598,Instagram | Newsletter Growth 0598,Instagram,Home & Lifestyle,Leads,148.98,9957,126,3,287.09
+2026-09-18,CMP-0599,Pinterest | Newsletter Growth 0599,Pinterest,Small Businesses,Leads,711.17,63739,865,17,1785.3
+2026-02-23,CMP-0600,Twitter | Newsletter Growth 0600,Twitter,Young Professionals,Leads,354.47,31221,463,12,1050.95
+2026-05-08,CMP-0601,Facebook | Brand Discovery 0601,Facebook,Parents,Awareness,319.72,23575,272,2,94.6
+2026-07-31,CMP-0602,Instagram | Brand Discovery 0602,Instagram,Home & Lifestyle,Awareness,677.19,43603,405,3,172.67
+2026-06-10,CMP-0603,Pinterest | Brand Discovery 0603,Pinterest,Small Businesses,Awareness,588.49,52423,518,3,178.34
+2026-05-29,CMP-0604,Twitter | Brand Discovery 0604,Twitter,Young Professionals,Awareness,546.68,44424,329,2,136.27
+2026-04-02,CMP-0605,Facebook | New Visitors 0605,Facebook,Home & Lifestyle,Traffic,487.84,38444,535,4,268.38
+2026-09-03,CMP-0606,Instagram | New Visitors 0606,Instagram,Small Businesses,Traffic,659.77,41908,717,9,757.41
+2026-05-27,CMP-0607,Pinterest | New Visitors 0607,Pinterest,Young Professionals,Traffic,699.71,71106,807,6,407.98
+2026-01-28,CMP-0608,Twitter | New Visitors 0608,Twitter,Parents,Traffic,536.17,52753,920,7,455.2
+2026-05-09,CMP-0609,Facebook | Lead Builder 0609,Facebook,Small Businesses,Leads,226.89,21322,302,6,563.5
+2026-07-03,CMP-0610,Instagram | Lead Builder 0610,Instagram,Young Professionals,Leads,863.94,68745,1013,31,3317.81
+2026-07-19,CMP-0611,Pinterest | Lead Builder 0611,Pinterest,Parents,Leads,302.37,27952,399,9,890.21
+2026-07-15,CMP-0612,Twitter | Lead Builder 0612,Twitter,Home & Lifestyle,Leads,397.11,31996,494,11,1037.97
+2026-01-07,CMP-0613,Facebook | Core Sales 0613,Facebook,Young Professionals,Sales,662.88,59730,953,28,3497.83
+2026-04-26,CMP-0614,Instagram | Core Sales 0614,Instagram,Parents,Sales,848.22,57144,822,23,3007.18
+2026-04-11,CMP-0615,Pinterest | Core Sales 0615,Pinterest,Home & Lifestyle,Sales,631.66,55881,662,12,1660.79
+2026-04-06,CMP-0616,Twitter | Core Sales 0616,Twitter,Small Businesses,Sales,723.89,61591,653,10,1157.0
+2026-05-16,CMP-0617,Facebook | Seasonal Offers 0617,Facebook,Parents,Sales,214.95,17430,202,4,559.68
+2026-03-21,CMP-0618,Instagram | Seasonal Offers 0618,Instagram,Home & Lifestyle,Sales,161.09,10267,144,4,540.71
+2026-06-04,CMP-0619,Pinterest | Seasonal Offers 0619,Pinterest,Small Businesses,Sales,439.85,42928,528,15,1768.19
+2026-04-23,CMP-0620,Twitter | Seasonal Offers 0620,Twitter,Young Professionals,Sales,720.37,64804,996,17,2219.32
+2026-07-26,CMP-0621,Facebook | Newsletter Growth 0621,Facebook,Home & Lifestyle,Leads,209.57,18784,196,4,346.45
+2026-04-22,CMP-0622,Instagram | Newsletter Growth 0622,Instagram,Small Businesses,Leads,878.82,60537,735,20,2049.23
+2026-01-05,CMP-0623,Pinterest | Newsletter Growth 0623,Pinterest,Young Professionals,Leads,187.45,19457,206,6,655.22
+2026-05-05,CMP-0624,Twitter | Newsletter Growth 0624,Twitter,Parents,Leads,721.6,62222,692,24,2646.53
+2026-07-17,CMP-0625,Facebook | Brand Discovery 0625,Facebook,Home & Lifestyle,Awareness,344.19,26920,185,1,63.07
+2026-09-21,CMP-0626,Instagram | Brand Discovery 0626,Instagram,Small Businesses,Awareness,854.05,61601,429,4,195.06
+2026-09-21,CMP-0627,Pinterest | Brand Discovery 0627,Pinterest,Young Professionals,Awareness,185.59,20715,239,2,114.39
+2026-02-03,CMP-0628,Twitter | Brand Discovery 0628,Twitter,Parents,Awareness,241.01,21068,164,1,64.68
+2026-04-16,CMP-0629,Facebook | New Visitors 0629,Facebook,Small Businesses,Traffic,512.56,40305,778,10,763.67
+2026-02-06,CMP-0630,Instagram | New Visitors 0630,Instagram,Young Professionals,Traffic,718.45,56300,847,8,470.06
+2026-01-28,CMP-0631,Pinterest | New Visitors 0631,Pinterest,Parents,Traffic,229.94,24513,290,4,338.78
+2026-07-28,CMP-0632,Twitter | New Visitors 0632,Twitter,Home & Lifestyle,Traffic,397.46,34738,515,3,231.63
+2026-01-04,CMP-0633,Facebook | Lead Builder 0633,Facebook,Young Professionals,Leads,588.24,47273,661,18,1806.94
+2026-02-07,CMP-0634,Instagram | Lead Builder 0634,Instagram,Parents,Leads,411.61,29232,319,10,965.66
+2026-05-25,CMP-0635,Pinterest | Lead Builder 0635,Pinterest,Home & Lifestyle,Leads,624.36,63183,733,22,2006.32
+2026-04-23,CMP-0636,Twitter | Lead Builder 0636,Twitter,Small Businesses,Leads,193.21,18004,257,7,776.2
+2026-03-15,CMP-0637,Facebook | Core Sales 0637,Facebook,Parents,Sales,337.58,25356,422,12,1637.36
+2026-01-06,CMP-0638,Instagram | Core Sales 0638,Instagram,Home & Lifestyle,Sales,566.0,39641,421,6,801.37
+2026-02-13,CMP-0639,Pinterest | Core Sales 0639,Pinterest,Small Businesses,Sales,315.03,29386,476,10,1232.12
+2026-09-20,CMP-0640,Twitter | Core Sales 0640,Twitter,Young Professionals,Sales,220.77,21823,309,6,638.69
+2026-01-28,CMP-0641,Facebook | Seasonal Offers 0641,Facebook,Home & Lifestyle,Sales,741.51,55086,929,21,2749.29
+2026-05-29,CMP-0642,Instagram | Seasonal Offers 0642,Instagram,Small Businesses,Sales,659.16,50212,560,14,2149.34
+2026-07-02,CMP-0643,Pinterest | Seasonal Offers 0643,Pinterest,Young Professionals,Sales,220.09,21021,220,6,903.79
+2026-06-12,CMP-0644,Twitter | Seasonal Offers 0644,Twitter,Parents,Sales,417.72,39612,573,15,1628.58
+2026-07-06,CMP-0645,Facebook | Newsletter Growth 0645,Facebook,Small Businesses,Leads,794.78,58672,593,13,1349.65
+2026-08-12,CMP-0646,Instagram | Newsletter Growth 0646,Instagram,Young Professionals,Leads,389.46,28766,388,9,822.94
+2026-08-17,CMP-0647,Pinterest | Newsletter Growth 0647,Pinterest,Parents,Leads,393.49,41312,522,10,965.68
+2026-05-24,CMP-0648,Twitter | Newsletter Growth 0648,Twitter,Home & Lifestyle,Leads,657.24,65817,826,18,1942.14
+2026-02-09,CMP-0649,Facebook | Brand Discovery 0649,Facebook,Small Businesses,Awareness,651.02,48837,535,4,256.45
+2026-07-27,CMP-0650,Instagram | Brand Discovery 0650,Instagram,Young Professionals,Awareness,824.36,63489,440,2,132.25
+2026-08-30,CMP-0651,Pinterest | Brand Discovery 0651,Pinterest,Parents,Awareness,615.51,67629,588,5,292.96
+2026-05-29,CMP-0652,Twitter | Brand Discovery 0652,Twitter,Home & Lifestyle,Awareness,191.61,17327,125,1,44.26
+2026-05-03,CMP-0653,Facebook | New Visitors 0653,Facebook,Young Professionals,Traffic,739.03,56617,924,7,505.37
+2026-08-17,CMP-0654,Instagram | New Visitors 0654,Instagram,Parents,Traffic,285.75,19953,318,4,242.42
+2026-09-05,CMP-0655,Pinterest | New Visitors 0655,Pinterest,Home & Lifestyle,Traffic,830.09,94231,1652,14,900.58
+2026-04-30,CMP-0656,Twitter | New Visitors 0656,Twitter,Small Businesses,Traffic,133.1,13069,245,2,141.59
+2026-08-21,CMP-0657,Facebook | Lead Builder 0657,Facebook,Parents,Leads,855.16,80910,1075,20,2224.44
+2026-05-21,CMP-0658,Instagram | Lead Builder 0658,Instagram,Home & Lifestyle,Leads,787.81,59794,753,15,1477.11
+2026-07-07,CMP-0659,Pinterest | Lead Builder 0659,Pinterest,Small Businesses,Leads,565.7,50848,484,10,1113.93
+2026-04-25,CMP-0660,Twitter | Lead Builder 0660,Twitter,Young Professionals,Leads,437.32,41186,607,16,1464.41
+2026-01-04,CMP-0661,Facebook | Core Sales 0661,Facebook,Home & Lifestyle,Sales,486.34,44658,488,8,1089.56
+2026-04-19,CMP-0662,Instagram | Core Sales 0662,Instagram,Small Businesses,Sales,248.05,19417,273,8,1097.5
+2026-08-01,CMP-0663,Pinterest | Core Sales 0663,Pinterest,Young Professionals,Sales,733.81,68937,909,21,2348.89
+2026-03-24,CMP-0664,Twitter | Core Sales 0664,Twitter,Parents,Sales,521.4,48321,555,9,1199.88
+2026-03-10,CMP-0665,Facebook | Seasonal Offers 0665,Facebook,Small Businesses,Sales,579.56,54846,759,12,1374.33
+2026-04-03,CMP-0666,Instagram | Seasonal Offers 0666,Instagram,Young Professionals,Sales,536.92,39155,653,17,2540.07
+2026-05-26,CMP-0667,Pinterest | Seasonal Offers 0667,Pinterest,Parents,Sales,746.58,80409,1133,26,3304.44
+2026-04-23,CMP-0668,Twitter | Seasonal Offers 0668,Twitter,Home & Lifestyle,Sales,639.03,56280,868,25,2755.77
+2026-09-19,CMP-0669,Facebook | Newsletter Growth 0669,Facebook,Young Professionals,Leads,350.67,27425,309,8,767.35
+2026-04-28,CMP-0670,Instagram | Newsletter Growth 0670,Instagram,Parents,Leads,427.78,33737,307,8,870.63
+2026-08-03,CMP-0671,Pinterest | Newsletter Growth 0671,Pinterest,Home & Lifestyle,Leads,745.35,72120,734,25,2407.31
+2026-09-30,CMP-0672,Twitter | Newsletter Growth 0672,Twitter,Small Businesses,Leads,480.41,48433,590,11,1060.85
+2026-01-01,CMP-0673,Facebook | Brand Discovery 0673,Facebook,Young Professionals,Awareness,774.79,59827,596,4,212.67
+2026-01-23,CMP-0674,Instagram | Brand Discovery 0674,Instagram,Parents,Awareness,679.62,49243,561,3,189.07
+2026-06-29,CMP-0675,Pinterest | Brand Discovery 0675,Pinterest,Home & Lifestyle,Awareness,506.0,47282,497,4,185.67
+2026-03-10,CMP-0676,Twitter | Brand Discovery 0676,Twitter,Small Businesses,Awareness,269.1,22719,256,1,58.81
+2026-07-29,CMP-0677,Facebook | New Visitors 0677,Facebook,Parents,Traffic,345.18,33007,574,4,289.84
+2026-09-24,CMP-0678,Instagram | New Visitors 0678,Instagram,Home & Lifestyle,Traffic,151.5,10338,175,2,134.82
+2026-03-21,CMP-0679,Pinterest | New Visitors 0679,Pinterest,Small Businesses,Traffic,396.55,38573,517,6,442.72
+2026-05-22,CMP-0680,Twitter | New Visitors 0680,Twitter,Young Professionals,Traffic,742.73,69088,893,10,735.63
+2026-04-02,CMP-0681,Facebook | Lead Builder 0681,Facebook,Home & Lifestyle,Leads,390.26,31889,340,8,687.57
+2026-07-23,CMP-0682,Instagram | Lead Builder 0682,Instagram,Small Businesses,Leads,794.85,51574,689,22,1981.92
+2026-03-24,CMP-0683,Pinterest | Lead Builder 0683,Pinterest,Young Professionals,Leads,177.75,17647,250,8,774.94
+2026-01-27,CMP-0684,Twitter | Lead Builder 0684,Twitter,Parents,Leads,208.86,16796,152,3,233.66
+2026-08-11,CMP-0685,Facebook | Core Sales 0685,Facebook,Small Businesses,Sales,206.46,18283,227,6,844.52
+2026-07-25,CMP-0686,Instagram | Core Sales 0686,Instagram,Young Professionals,Sales,687.29,48574,721,18,2757.54
+2026-03-31,CMP-0687,Pinterest | Core Sales 0687,Pinterest,Parents,Sales,540.42,54669,612,16,2323.52
+2026-05-27,CMP-0688,Twitter | Core Sales 0688,Twitter,Home & Lifestyle,Sales,230.71,19390,260,7,942.23
+2026-01-19,CMP-0689,Facebook | Seasonal Offers 0689,Facebook,Young Professionals,Sales,382.61,30457,509,8,924.17
+2026-07-24,CMP-0690,Instagram | Seasonal Offers 0690,Instagram,Parents,Sales,456.97,33420,466,11,1555.97
+2026-02-05,CMP-0691,Pinterest | Seasonal Offers 0691,Pinterest,Home & Lifestyle,Sales,727.72,71458,1068,26,3452.54
+2026-06-27,CMP-0692,Twitter | Seasonal Offers 0692,Twitter,Small Businesses,Sales,724.42,69715,982,17,2589.04
+2026-01-03,CMP-0693,Facebook | Newsletter Growth 0693,Facebook,Parents,Leads,310.61,26414,256,5,419.59
+2026-03-01,CMP-0694,Instagram | Newsletter Growth 0694,Instagram,Home & Lifestyle,Leads,762.64,48279,714,23,2191.51
+2026-08-15,CMP-0695,Pinterest | Newsletter Growth 0695,Pinterest,Small Businesses,Leads,850.31,83196,1172,37,4104.42
+2026-08-23,CMP-0696,Twitter | Newsletter Growth 0696,Twitter,Young Professionals,Leads,608.67,49758,731,19,1566.39
+2026-07-15,CMP-0697,Facebook | Brand Discovery 0697,Facebook,Parents,Awareness,652.48,47762,482,2,103.63
+2026-06-30,CMP-0698,Instagram | Brand Discovery 0698,Instagram,Home & Lifestyle,Awareness,601.23,49214,535,3,138.91
+2026-06-25,CMP-0699,Pinterest | Brand Discovery 0699,Pinterest,Small Businesses,Awareness,161.46,14397,131,1,66.13
+2026-05-18,CMP-0700,Twitter | Brand Discovery 0700,Twitter,Young Professionals,Awareness,223.02,18922,215,1,62.24
+2026-05-01,CMP-0701,Facebook | New Visitors 0701,Facebook,Home & Lifestyle,Traffic,656.86,49508,641,5,319.33
+2026-07-02,CMP-0702,Instagram | New Visitors 0702,Instagram,Small Businesses,Traffic,282.9,22482,424,5,384.49
+2026-01-04,CMP-0703,Pinterest | New Visitors 0703,Pinterest,Young Professionals,Traffic,623.67,61373,712,7,528.86
+2026-09-10,CMP-0704,Twitter | New Visitors 0704,Twitter,Parents,Traffic,764.46,62730,1003,9,555.84
+2026-09-19,CMP-0705,Facebook | Lead Builder 0705,Facebook,Small Businesses,Leads,363.55,32577,417,7,730.59
+2026-09-02,CMP-0706,Instagram | Lead Builder 0706,Instagram,Young Professionals,Leads,974.87,79238,895,30,3102.72
+2026-08-23,CMP-0707,Pinterest | Lead Builder 0707,Pinterest,Parents,Leads,858.17,81072,976,29,2101.88
+2026-04-18,CMP-0708,Twitter | Lead Builder 0708,Twitter,Home & Lifestyle,Leads,349.34,35397,403,13,1034.54
+2026-05-15,CMP-0709,Facebook | Core Sales 0709,Facebook,Young Professionals,Sales,293.11,24493,346,7,896.39
+2026-04-18,CMP-0710,Instagram | Core Sales 0710,Instagram,Parents,Sales,460.01,30620,378,8,1002.83
+2026-03-09,CMP-0711,Pinterest | Core Sales 0711,Pinterest,Home & Lifestyle,Sales,768.08,72788,1133,31,4502.13
+2026-08-10,CMP-0712,Twitter | Core Sales 0712,Twitter,Small Businesses,Sales,734.38,72336,1119,31,3924.77
+2026-01-05,CMP-0713,Facebook | Seasonal Offers 0713,Facebook,Parents,Sales,248.92,20642,348,10,1290.82
+2026-06-11,CMP-0714,Instagram | Seasonal Offers 0714,Instagram,Home & Lifestyle,Sales,748.76,56238,774,19,2325.79
+2026-03-25,CMP-0715,Pinterest | Seasonal Offers 0715,Pinterest,Small Businesses,Sales,150.72,13831,182,5,626.52
+2026-06-21,CMP-0716,Twitter | Seasonal Offers 0716,Twitter,Young Professionals,Sales,272.48,25609,352,10,1193.58
+2026-07-30,CMP-0717,Facebook | Newsletter Growth 0717,Facebook,Home & Lifestyle,Leads,233.52,17624,271,5,476.62
+2026-03-31,CMP-0718,Instagram | Newsletter Growth 0718,Instagram,Small Businesses,Leads,901.74,68026,758,20,2067.54
+2026-08-17,CMP-0719,Pinterest | Newsletter Growth 0719,Pinterest,Young Professionals,Leads,792.82,81491,888,26,2024.53
+2026-03-27,CMP-0720,Twitter | Newsletter Growth 0720,Twitter,Parents,Leads,517.11,41947,494,14,1237.51
+2026-02-06,CMP-0721,Facebook | Brand Discovery 0721,Facebook,Home & Lifestyle,Awareness,177.75,15385,128,1,61.58
+2026-07-22,CMP-0722,Instagram | Brand Discovery 0722,Instagram,Small Businesses,Awareness,384.67,27751,306,2,117.05
+2026-08-19,CMP-0723,Pinterest | Brand Discovery 0723,Pinterest,Young Professionals,Awareness,435.05,47306,325,2,120.77
+2026-02-10,CMP-0724,Twitter | Brand Discovery 0724,Twitter,Parents,Awareness,240.87,22408,162,1,55.71
+2026-01-28,CMP-0725,Facebook | New Visitors 0725,Facebook,Small Businesses,Traffic,139.25,11875,209,1,64.27
+2026-03-21,CMP-0726,Instagram | New Visitors 0726,Instagram,Young Professionals,Traffic,196.07,12487,181,2,158.47
+2026-08-15,CMP-0727,Pinterest | New Visitors 0727,Pinterest,Parents,Traffic,594.88,65700,1194,8,615.21
+2026-06-16,CMP-0728,Twitter | New Visitors 0728,Twitter,Home & Lifestyle,Traffic,660.79,60304,1112,16,1172.47
+2026-03-11,CMP-0729,Facebook | Lead Builder 0729,Facebook,Young Professionals,Leads,827.77,65177,663,19,1853.59
+2026-08-11,CMP-0730,Instagram | Lead Builder 0730,Instagram,Parents,Leads,607.37,41608,460,11,1032.42
+2026-02-15,CMP-0731,Pinterest | Lead Builder 0731,Pinterest,Home & Lifestyle,Leads,407.15,42028,450,10,720.04
+2026-03-11,CMP-0732,Twitter | Lead Builder 0732,Twitter,Small Businesses,Leads,326.51,29781,270,9,993.17
+2026-09-02,CMP-0733,Facebook | Core Sales 0733,Facebook,Parents,Sales,379.36,29359,454,11,1593.0
+2026-07-11,CMP-0734,Instagram | Core Sales 0734,Instagram,Home & Lifestyle,Sales,311.66,20088,259,5,701.08
+2026-07-19,CMP-0735,Pinterest | Core Sales 0735,Pinterest,Small Businesses,Sales,746.78,80337,829,21,2710.25
+2026-05-20,CMP-0736,Twitter | Core Sales 0736,Twitter,Young Professionals,Sales,288.48,24496,380,8,1184.07
+2026-04-04,CMP-0737,Facebook | Seasonal Offers 0737,Facebook,Home & Lifestyle,Sales,219.74,20351,265,6,836.41
+2026-09-09,CMP-0738,Instagram | Seasonal Offers 0738,Instagram,Small Businesses,Sales,310.97,25378,256,6,662.75
+2026-02-22,CMP-0739,Pinterest | Seasonal Offers 0739,Pinterest,Young Professionals,Sales,299.87,33180,428,6,630.44
+2026-01-08,CMP-0740,Twitter | Seasonal Offers 0740,Twitter,Parents,Sales,422.68,39930,478,14,2185.9
+2026-08-26,CMP-0741,Facebook | Newsletter Growth 0741,Facebook,Small Businesses,Leads,704.21,66795,637,20,1558.33
+2026-05-17,CMP-0742,Instagram | Newsletter Growth 0742,Instagram,Young Professionals,Leads,741.12,59529,720,14,1485.15
+2026-07-15,CMP-0743,Pinterest | Newsletter Growth 0743,Pinterest,Parents,Leads,746.65,82692,1163,25,2580.87
+2026-08-15,CMP-0744,Twitter | Newsletter Growth 0744,Twitter,Home & Lifestyle,Leads,296.1,23643,244,8,606.44
+2026-04-17,CMP-0745,Facebook | Brand Discovery 0745,Facebook,Small Businesses,Awareness,465.16,36778,305,2,119.14
+2026-01-22,CMP-0746,Instagram | Brand Discovery 0746,Instagram,Young Professionals,Awareness,716.74,50271,370,2,102.79
+2026-07-04,CMP-0747,Pinterest | Brand Discovery 0747,Pinterest,Parents,Awareness,791.23,71722,561,2,119.33
+2026-06-16,CMP-0748,Twitter | Brand Discovery 0748,Twitter,Home & Lifestyle,Awareness,115.28,9664,93,1,50.02
+2026-01-22,CMP-0749,Facebook | New Visitors 0749,Facebook,Young Professionals,Traffic,544.19,42924,727,6,481.68
+2026-05-08,CMP-0750,Instagram | New Visitors 0750,Instagram,Parents,Traffic,253.93,20273,332,5,437.02
+2026-01-31,CMP-0751,Pinterest | New Visitors 0751,Pinterest,Home & Lifestyle,Traffic,150.54,14419,246,3,179.89
+2026-04-30,CMP-0752,Twitter | New Visitors 0752,Twitter,Small Businesses,Traffic,309.07,27526,456,4,336.37
+2026-04-09,CMP-0753,Facebook | Lead Builder 0753,Facebook,Parents,Leads,135.59,11625,160,3,220.8
+2026-08-13,CMP-0754,Instagram | Lead Builder 0754,Instagram,Home & Lifestyle,Leads,638.78,44885,549,15,1410.25
+2026-06-15,CMP-0755,Pinterest | Lead Builder 0755,Pinterest,Small Businesses,Leads,602.28,63778,924,32,3022.66
+2026-02-05,CMP-0756,Twitter | Lead Builder 0756,Twitter,Young Professionals,Leads,446.8,40973,590,16,1446.24
+2026-09-17,CMP-0757,Facebook | Core Sales 0757,Facebook,Home & Lifestyle,Sales,444.31,40241,398,12,1723.81
+2026-05-03,CMP-0758,Instagram | Core Sales 0758,Instagram,Small Businesses,Sales,382.44,30794,513,15,1660.2
+2026-09-12,CMP-0759,Pinterest | Core Sales 0759,Pinterest,Young Professionals,Sales,699.63,76746,904,19,2244.16
+2026-02-19,CMP-0760,Twitter | Core Sales 0760,Twitter,Parents,Sales,441.7,45219,711,12,1789.61
+2026-04-14,CMP-0761,Facebook | Seasonal Offers 0761,Facebook,Small Businesses,Sales,198.15,17915,179,5,609.29
+2026-09-08,CMP-0762,Instagram | Seasonal Offers 0762,Instagram,Young Professionals,Sales,609.46,41094,476,10,1340.85
+2026-02-06,CMP-0763,Pinterest | Seasonal Offers 0763,Pinterest,Parents,Sales,119.19,10655,154,5,734.02
+2026-08-28,CMP-0764,Twitter | Seasonal Offers 0764,Twitter,Home & Lifestyle,Sales,694.6,71239,979,30,3701.92
+2026-07-08,CMP-0765,Facebook | Newsletter Growth 0765,Facebook,Young Professionals,Leads,783.78,73741,964,26,2645.22
+2026-06-05,CMP-0766,Instagram | Newsletter Growth 0766,Instagram,Parents,Leads,191.04,14700,183,3,244.07
+2026-07-17,CMP-0767,Pinterest | Newsletter Growth 0767,Pinterest,Home & Lifestyle,Leads,266.16,26299,280,8,633.96
+2026-08-01,CMP-0768,Twitter | Newsletter Growth 0768,Twitter,Small Businesses,Leads,655.09,55301,708,21,2109.52
+2026-08-07,CMP-0769,Facebook | Brand Discovery 0769,Facebook,Young Professionals,Awareness,856.2,77975,596,3,157.06
+2026-03-22,CMP-0770,Instagram | Brand Discovery 0770,Instagram,Parents,Awareness,550.53,38105,433,4,230.46
+2026-06-16,CMP-0771,Pinterest | Brand Discovery 0771,Pinterest,Home & Lifestyle,Awareness,677.8,69069,683,5,260.03
+2026-05-04,CMP-0772,Twitter | Brand Discovery 0772,Twitter,Small Businesses,Awareness,467.36,45796,483,4,201.15
+2026-08-20,CMP-0773,Facebook | New Visitors 0773,Facebook,Parents,Traffic,500.28,42662,736,11,822.43
+2026-09-23,CMP-0774,Instagram | New Visitors 0774,Instagram,Home & Lifestyle,Traffic,264.43,17010,192,3,188.3
+2026-06-11,CMP-0775,Pinterest | New Visitors 0775,Pinterest,Small Businesses,Traffic,124.97,11445,194,2,146.88
+2026-03-21,CMP-0776,Twitter | New Visitors 0776,Twitter,Young Professionals,Traffic,166.17,15193,190,2,168.05
+2026-05-08,CMP-0777,Facebook | Lead Builder 0777,Facebook,Home & Lifestyle,Leads,290.09,22199,213,5,545.87
+2026-02-09,CMP-0778,Instagram | Lead Builder 0778,Instagram,Small Businesses,Leads,700.07,46126,468,15,1498.93
+2026-02-18,CMP-0779,Pinterest | Lead Builder 0779,Pinterest,Young Professionals,Leads,510.16,53639,741,21,1578.75
+2026-01-29,CMP-0780,Twitter | Lead Builder 0780,Twitter,Parents,Leads,697.81,66061,978,24,2632.2
+2026-03-03,CMP-0781,Facebook | Core Sales 0781,Facebook,Small Businesses,Sales,754.94,67559,974,24,2415.44
+2026-07-15,CMP-0782,Instagram | Core Sales 0782,Instagram,Young Professionals,Sales,192.95,13624,164,4,473.54
+2026-04-24,CMP-0783,Pinterest | Core Sales 0783,Pinterest,Parents,Sales,213.29,20277,342,11,1565.82
+2026-09-16,CMP-0784,Twitter | Core Sales 0784,Twitter,Home & Lifestyle,Sales,183.09,16870,259,4,475.64
+2026-09-01,CMP-0785,Facebook | Seasonal Offers 0785,Facebook,Young Professionals,Sales,601.61,56757,715,11,1410.5
+2026-03-08,CMP-0786,Instagram | Seasonal Offers 0786,Instagram,Parents,Sales,730.39,52179,583,12,1585.65
+2026-09-26,CMP-0787,Pinterest | Seasonal Offers 0787,Pinterest,Home & Lifestyle,Sales,308.87,34730,532,11,1671.81
+2026-02-15,CMP-0788,Twitter | Seasonal Offers 0788,Twitter,Small Businesses,Sales,177.89,16474,204,4,477.52
+2026-01-13,CMP-0789,Facebook | Newsletter Growth 0789,Facebook,Parents,Leads,681.87,62054,702,23,2403.8
+2026-03-16,CMP-0790,Instagram | Newsletter Growth 0790,Instagram,Home & Lifestyle,Leads,476.86,30425,321,10,783.18
+2026-02-13,CMP-0791,Pinterest | Newsletter Growth 0791,Pinterest,Small Businesses,Leads,185.87,21009,321,11,1179.03
+2026-05-28,CMP-0792,Twitter | Newsletter Growth 0792,Twitter,Young Professionals,Leads,114.42,9838,96,2,145.84
+2026-04-18,CMP-0793,Facebook | Brand Discovery 0793,Facebook,Parents,Awareness,660.21,59337,561,4,230.33
+2026-03-14,CMP-0794,Instagram | Brand Discovery 0794,Instagram,Home & Lifestyle,Awareness,677.59,46076,397,3,171.11
+2026-05-11,CMP-0795,Pinterest | Brand Discovery 0795,Pinterest,Small Businesses,Awareness,224.79,23745,253,2,90.63
+2026-01-05,CMP-0796,Twitter | Brand Discovery 0796,Twitter,Young Professionals,Awareness,148.38,12868,129,1,52.92
+2026-02-25,CMP-0797,Facebook | New Visitors 0797,Facebook,Home & Lifestyle,Traffic,133.93,10108,168,1,67.99
+2026-02-20,CMP-0798,Instagram | New Visitors 0798,Instagram,Small Businesses,Traffic,842.21,60106,972,7,435.85
+2026-08-23,CMP-0799,Pinterest | New Visitors 0799,Pinterest,Young Professionals,Traffic,545.39,51337,594,8,524.84
+2026-09-08,CMP-0800,Twitter | New Visitors 0800,Twitter,Parents,Traffic,401.32,39987,564,5,378.47
+2026-05-01,CMP-0801,Facebook | Lead Builder 0801,Facebook,Small Businesses,Leads,847.08,62237,673,12,989.23
+2026-07-18,CMP-0802,Instagram | Lead Builder 0802,Instagram,Young Professionals,Leads,931.38,61033,561,15,1250.22
+2026-03-19,CMP-0803,Pinterest | Lead Builder 0803,Pinterest,Parents,Leads,339.94,34827,345,11,1023.98
+2026-04-27,CMP-0804,Twitter | Lead Builder 0804,Twitter,Home & Lifestyle,Leads,373.69,33154,392,9,868.66
+2026-08-18,CMP-0805,Facebook | Core Sales 0805,Facebook,Young Professionals,Sales,577.73,52001,559,13,1885.08
+2026-03-12,CMP-0806,Instagram | Core Sales 0806,Instagram,Parents,Sales,373.21,25140,339,6,936.04
+2026-03-16,CMP-0807,Pinterest | Core Sales 0807,Pinterest,Home & Lifestyle,Sales,551.13,53900,586,9,1169.81
+2026-03-02,CMP-0808,Twitter | Core Sales 0808,Twitter,Small Businesses,Sales,223.89,18559,200,3,353.78
+2026-07-31,CMP-0809,Facebook | Seasonal Offers 0809,Facebook,Parents,Sales,920.27,80564,1215,35,4753.79
+2026-05-21,CMP-0810,Instagram | Seasonal Offers 0810,Instagram,Home & Lifestyle,Sales,249.4,19348,207,3,466.38
+2026-05-17,CMP-0811,Pinterest | Seasonal Offers 0811,Pinterest,Small Businesses,Sales,517.12,49947,700,13,1319.07
+2026-02-10,CMP-0812,Twitter | Seasonal Offers 0812,Twitter,Young Professionals,Sales,547.66,49853,665,17,2380.87
+2026-07-11,CMP-0813,Facebook | Newsletter Growth 0813,Facebook,Home & Lifestyle,Leads,284.82,24353,295,6,486.98
+2026-07-29,CMP-0814,Instagram | Newsletter Growth 0814,Instagram,Small Businesses,Leads,820.25,67032,723,18,1837.19
+2026-04-14,CMP-0815,Pinterest | Newsletter Growth 0815,Pinterest,Young Professionals,Leads,619.32,69754,1055,38,4070.51
+2026-09-08,CMP-0816,Twitter | Newsletter Growth 0816,Twitter,Parents,Leads,613.18,50491,750,19,1965.3
+2026-07-14,CMP-0817,Facebook | Brand Discovery 0817,Facebook,Home & Lifestyle,Awareness,723.24,61725,704,5,286.35
+2026-01-20,CMP-0818,Instagram | Brand Discovery 0818,Instagram,Small Businesses,Awareness,540.08,38891,422,2,137.29
+2026-09-23,CMP-0819,Pinterest | Brand Discovery 0819,Pinterest,Young Professionals,Awareness,528.23,46514,323,2,125.88
+2026-01-26,CMP-0820,Twitter | Brand Discovery 0820,Twitter,Parents,Awareness,227.56,20924,233,2,102.15
+2026-03-27,CMP-0821,Facebook | New Visitors 0821,Facebook,Small Businesses,Traffic,428.4,34475,403,4,241.92
+2026-08-20,CMP-0822,Instagram | New Visitors 0822,Instagram,Young Professionals,Traffic,225.01,15989,204,2,168.34
+2026-03-11,CMP-0823,Pinterest | New Visitors 0823,Pinterest,Parents,Traffic,374.38,39107,448,5,421.22
+2026-04-14,CMP-0824,Twitter | New Visitors 0824,Twitter,Home & Lifestyle,Traffic,672.55,68364,952,11,862.52
+2026-03-25,CMP-0825,Facebook | Lead Builder 0825,Facebook,Young Professionals,Leads,644.41,59446,580,15,1300.49
+2026-09-26,CMP-0826,Instagram | Lead Builder 0826,Instagram,Parents,Leads,769.69,51562,796,23,1804.95
+2026-07-14,CMP-0827,Pinterest | Lead Builder 0827,Pinterest,Home & Lifestyle,Leads,156.67,17101,192,6,641.63
+2026-03-25,CMP-0828,Twitter | Lead Builder 0828,Twitter,Small Businesses,Leads,663.73,65708,900,22,1859.78
+2026-08-17,CMP-0829,Facebook | Core Sales 0829,Facebook,Parents,Sales,370.51,33605,544,17,1703.38
+2026-05-10,CMP-0830,Instagram | Core Sales 0830,Instagram,Home & Lifestyle,Sales,139.22,9901,132,4,536.8
+2026-09-10,CMP-0831,Pinterest | Core Sales 0831,Pinterest,Small Businesses,Sales,302.58,29405,387,8,835.73
+2026-01-04,CMP-0832,Twitter | Core Sales 0832,Twitter,Young Professionals,Sales,262.8,23473,333,8,1171.36
+2026-01-26,CMP-0833,Facebook | Seasonal Offers 0833,Facebook,Home & Lifestyle,Sales,254.93,24008,294,5,509.12
+2026-06-02,CMP-0834,Instagram | Seasonal Offers 0834,Instagram,Small Businesses,Sales,390.65,31223,329,10,1090.75
+2026-05-26,CMP-0835,Pinterest | Seasonal Offers 0835,Pinterest,Young Professionals,Sales,520.81,49286,690,19,2089.62
+2026-08-22,CMP-0836,Twitter | Seasonal Offers 0836,Twitter,Parents,Sales,657.41,61788,618,17,2008.7
+2026-07-14,CMP-0837,Facebook | Newsletter Growth 0837,Facebook,Small Businesses,Leads,805.05,62420,909,16,1457.09
+2026-03-04,CMP-0838,Instagram | Newsletter Growth 0838,Instagram,Young Professionals,Leads,677.24,51239,639,17,1703.08
+2026-01-30,CMP-0839,Pinterest | Newsletter Growth 0839,Pinterest,Parents,Leads,183.81,17226,227,8,732.71
+2026-05-28,CMP-0840,Twitter | Newsletter Growth 0840,Twitter,Home & Lifestyle,Leads,379.94,31431,337,9,875.17
+2026-03-08,CMP-0841,Facebook | Brand Discovery 0841,Facebook,Small Businesses,Awareness,568.43,47179,489,3,191.99
+2026-04-30,CMP-0842,Instagram | Brand Discovery 0842,Instagram,Young Professionals,Awareness,688.25,43336,293,1,59.48
+2026-03-02,CMP-0843,Pinterest | Brand Discovery 0843,Pinterest,Parents,Awareness,605.68,65410,641,4,180.5
+2026-06-29,CMP-0844,Twitter | Brand Discovery 0844,Twitter,Home & Lifestyle,Awareness,465.61,40617,276,1,50.97
+2026-02-04,CMP-0845,Facebook | New Visitors 0845,Facebook,Young Professionals,Traffic,344.67,28528,397,3,232.81
+2026-06-24,CMP-0846,Instagram | New Visitors 0846,Instagram,Parents,Traffic,441.85,30833,591,8,496.89
+2026-06-23,CMP-0847,Pinterest | New Visitors 0847,Pinterest,Home & Lifestyle,Traffic,729.8,73027,1107,8,482.21
+2026-03-21,CMP-0848,Twitter | New Visitors 0848,Twitter,Small Businesses,Traffic,508.51,41615,653,6,484.17
+2026-07-31,CMP-0849,Facebook | Lead Builder 0849,Facebook,Parents,Leads,892.96,84071,1046,29,2884.54
+2026-01-10,CMP-0850,Instagram | Lead Builder 0850,Instagram,Home & Lifestyle,Leads,293.79,19889,284,10,863.21
+2026-03-18,CMP-0851,Pinterest | Lead Builder 0851,Pinterest,Small Businesses,Leads,298.76,34011,527,15,1591.76
+2026-07-19,CMP-0852,Twitter | Lead Builder 0852,Twitter,Young Professionals,Leads,253.09,25521,361,8,853.93
+2026-01-17,CMP-0853,Facebook | Core Sales 0853,Facebook,Home & Lifestyle,Sales,318.19,29679,475,10,1466.57
+2026-06-04,CMP-0854,Instagram | Core Sales 0854,Instagram,Small Businesses,Sales,300.0,22518,238,7,1006.25
+2026-02-17,CMP-0855,Pinterest | Core Sales 0855,Pinterest,Young Professionals,Sales,408.44,46587,615,14,1549.79
+2026-09-05,CMP-0856,Twitter | Core Sales 0856,Twitter,Parents,Sales,645.25,57999,887,15,2235.58
+2026-09-22,CMP-0857,Facebook | Seasonal Offers 0857,Facebook,Small Businesses,Sales,687.68,63264,945,21,2943.03
+2026-09-25,CMP-0858,Instagram | Seasonal Offers 0858,Instagram,Young Professionals,Sales,247.44,18527,186,5,745.21
+2026-06-20,CMP-0859,Pinterest | Seasonal Offers 0859,Pinterest,Parents,Sales,423.95,48042,647,17,1998.81
+2026-06-09,CMP-0860,Twitter | Seasonal Offers 0860,Twitter,Home & Lifestyle,Sales,516.0,50622,566,11,1429.35
+2026-08-14,CMP-0861,Facebook | Newsletter Growth 0861,Facebook,Young Professionals,Leads,683.11,60327,606,11,1218.92
+2026-09-21,CMP-0862,Instagram | Newsletter Growth 0862,Instagram,Parents,Leads,235.55,16552,209,5,551.01
+2026-05-26,CMP-0863,Pinterest | Newsletter Growth 0863,Pinterest,Home & Lifestyle,Leads,495.95,54129,598,20,1877.87
+2026-01-26,CMP-0864,Twitter | Newsletter Growth 0864,Twitter,Small Businesses,Leads,189.16,17246,232,4,296.72
+2026-08-07,CMP-0865,Facebook | Brand Discovery 0865,Facebook,Young Professionals,Awareness,454.83,35748,399,3,183.24
+2026-08-17,CMP-0866,Instagram | Brand Discovery 0866,Instagram,Parents,Awareness,689.36,51595,557,4,242.42
+2026-02-10,CMP-0867,Pinterest | Brand Discovery 0867,Pinterest,Home & Lifestyle,Awareness,764.32,71162,644,3,192.35
+2026-08-28,CMP-0868,Twitter | Brand Discovery 0868,Twitter,Small Businesses,Awareness,188.25,17942,178,1,55.65
+2026-04-25,CMP-0869,Facebook | New Visitors 0869,Facebook,Parents,Traffic,224.92,16858,226,2,123.55
+2026-06-19,CMP-0870,Instagram | New Visitors 0870,Instagram,Home & Lifestyle,Traffic,751.47,48434,726,5,354.87
+2026-06-29,CMP-0871,Pinterest | New Visitors 0871,Pinterest,Small Businesses,Traffic,431.86,39319,534,5,370.51
+2026-09-18,CMP-0872,Twitter | New Visitors 0872,Twitter,Young Professionals,Traffic,192.33,16030,286,3,229.37
+2026-06-04,CMP-0873,Facebook | Lead Builder 0873,Facebook,Home & Lifestyle,Leads,508.9,43353,508,15,1412.88
+2026-09-04,CMP-0874,Instagram | Lead Builder 0874,Instagram,Small Businesses,Leads,484.07,35943,517,15,1556.47
+2026-08-11,CMP-0875,Pinterest | Lead Builder 0875,Pinterest,Young Professionals,Leads,550.3,57180,777,15,1486.79
+2026-09-07,CMP-0876,Twitter | Lead Builder 0876,Twitter,Parents,Leads,200.53,17683,197,4,360.13
+2026-06-07,CMP-0877,Facebook | Core Sales 0877,Facebook,Small Businesses,Sales,817.79,76676,807,23,3297.93
+2026-07-14,CMP-0878,Instagram | Core Sales 0878,Instagram,Young Professionals,Sales,434.26,29707,303,5,539.07
+2026-01-01,CMP-0879,Pinterest | Core Sales 0879,Pinterest,Parents,Sales,618.85,59026,767,15,2019.39
+2026-08-17,CMP-0880,Twitter | Core Sales 0880,Twitter,Home & Lifestyle,Sales,259.05,22343,268,7,1059.57
+2026-06-05,CMP-0881,Facebook | Seasonal Offers 0881,Facebook,Young Professionals,Sales,790.51,58666,873,27,4204.0
+2026-01-05,CMP-0882,Instagram | Seasonal Offers 0882,Instagram,Parents,Sales,611.7,43354,685,20,2070.21
+2026-01-28,CMP-0883,Pinterest | Seasonal Offers 0883,Pinterest,Home & Lifestyle,Sales,110.97,10867,182,3,347.62
+2026-01-16,CMP-0884,Twitter | Seasonal Offers 0884,Twitter,Small Businesses,Sales,256.72,22025,277,6,729.19
+2026-07-15,CMP-0885,Facebook | Newsletter Growth 0885,Facebook,Parents,Leads,490.21,44066,447,9,850.45
+2026-07-04,CMP-0886,Instagram | Newsletter Growth 0886,Instagram,Home & Lifestyle,Leads,886.85,69485,1083,32,2478.02
+2026-02-06,CMP-0887,Pinterest | Newsletter Growth 0887,Pinterest,Small Businesses,Leads,545.86,60059,891,26,2898.65
+2026-03-11,CMP-0888,Twitter | Newsletter Growth 0888,Twitter,Young Professionals,Leads,159.99,13939,164,4,415.81
+2026-08-06,CMP-0889,Facebook | Brand Discovery 0889,Facebook,Parents,Awareness,643.97,54060,478,4,214.09
+2026-04-26,CMP-0890,Instagram | Brand Discovery 0890,Instagram,Home & Lifestyle,Awareness,276.08,19086,183,1,49.86
+2026-09-14,CMP-0891,Pinterest | Brand Discovery 0891,Pinterest,Small Businesses,Awareness,326.18,29119,280,1,44.94
+2026-09-05,CMP-0892,Twitter | Brand Discovery 0892,Twitter,Young Professionals,Awareness,625.43,63136,577,4,190.07
+2026-09-27,CMP-0893,Facebook | New Visitors 0893,Facebook,Home & Lifestyle,Traffic,938.57,68875,1217,12,701.57
+2026-02-15,CMP-0894,Instagram | New Visitors 0894,Instagram,Small Businesses,Traffic,322.94,22174,371,4,310.19
+2026-06-09,CMP-0895,Pinterest | New Visitors 0895,Pinterest,Young Professionals,Traffic,522.12,46870,734,5,351.51
+2026-08-29,CMP-0896,Twitter | New Visitors 0896,Twitter,Parents,Traffic,531.23,50332,713,10,652.8
+2026-03-27,CMP-0897,Facebook | Lead Builder 0897,Facebook,Small Businesses,Leads,145.79,10855,151,5,474.15
+2026-02-01,CMP-0898,Instagram | Lead Builder 0898,Instagram,Young Professionals,Leads,625.74,43559,557,16,1341.06
+2026-01-14,CMP-0899,Pinterest | Lead Builder 0899,Pinterest,Parents,Leads,303.03,33961,419,14,1165.54
+2026-03-09,CMP-0900,Twitter | Lead Builder 0900,Twitter,Home & Lifestyle,Leads,501.19,48250,516,16,1543.28
+2026-03-19,CMP-0901,Facebook | Core Sales 0901,Facebook,Young Professionals,Sales,601.18,51656,568,16,1812.58
+2026-04-03,CMP-0902,Instagram | Core Sales 0902,Instagram,Parents,Sales,759.82,49216,601,9,973.44
+2026-03-20,CMP-0903,Pinterest | Core Sales 0903,Pinterest,Home & Lifestyle,Sales,672.94,62701,796,17,2331.76
+2026-03-27,CMP-0904,Twitter | Core Sales 0904,Twitter,Small Businesses,Sales,241.05,20513,251,6,854.98
+2026-03-01,CMP-0905,Facebook | Seasonal Offers 0905,Facebook,Parents,Sales,158.34,13258,174,4,613.36
+2026-09-30,CMP-0906,Instagram | Seasonal Offers 0906,Instagram,Home & Lifestyle,Sales,351.48,23807,299,6,779.02
+2026-08-11,CMP-0907,Pinterest | Seasonal Offers 0907,Pinterest,Small Businesses,Sales,132.57,11833,153,4,616.4
+2026-01-22,CMP-0908,Twitter | Seasonal Offers 0908,Twitter,Young Professionals,Sales,168.15,15084,185,5,671.7
+2026-05-20,CMP-0909,Facebook | Newsletter Growth 0909,Facebook,Home & Lifestyle,Leads,364.53,32244,311,9,790.58
+2026-05-04,CMP-0910,Instagram | Newsletter Growth 0910,Instagram,Small Businesses,Leads,708.53,49185,506,12,1199.48
+2026-04-03,CMP-0911,Pinterest | Newsletter Growth 0911,Pinterest,Young Professionals,Leads,320.79,36752,333,6,531.93
+2026-09-26,CMP-0912,Twitter | Newsletter Growth 0912,Twitter,Parents,Leads,193.03,17718,185,4,319.28
+2026-01-13,CMP-0913,Facebook | Brand Discovery 0913,Facebook,Home & Lifestyle,Awareness,572.16,53854,522,4,197.47
+2026-03-04,CMP-0914,Instagram | Brand Discovery 0914,Instagram,Small Businesses,Awareness,687.85,54446,598,3,180.74
+2026-04-05,CMP-0915,Pinterest | Brand Discovery 0915,Pinterest,Young Professionals,Awareness,712.15,67322,539,3,201.51
+2026-08-21,CMP-0916,Twitter | Brand Discovery 0916,Twitter,Parents,Awareness,782.14,75272,667,5,315.27
+2026-06-15,CMP-0917,Facebook | New Visitors 0917,Facebook,Small Businesses,Traffic,307.86,23737,321,2,136.48
+2026-01-31,CMP-0918,Instagram | New Visitors 0918,Instagram,Young Professionals,Traffic,333.2,21846,278,2,173.7
+2026-04-13,CMP-0919,Pinterest | New Visitors 0919,Pinterest,Parents,Traffic,520.28,56664,867,7,561.5
+2026-04-22,CMP-0920,Twitter | New Visitors 0920,Twitter,Home & Lifestyle,Traffic,500.01,50580,753,6,342.59
+2026-02-06,CMP-0921,Facebook | Lead Builder 0921,Facebook,Young Professionals,Leads,537.08,47732,570,19,1482.54
+2026-01-01,CMP-0922,Instagram | Lead Builder 0922,Instagram,Parents,Leads,865.09,58881,633,19,2064.1
+2026-01-02,CMP-0923,Pinterest | Lead Builder 0923,Pinterest,Home & Lifestyle,Leads,456.53,40625,497,12,1274.21
+2026-02-05,CMP-0924,Twitter | Lead Builder 0924,Twitter,Small Businesses,Leads,452.58,47243,723,24,2196.57
+2026-07-03,CMP-0925,Facebook | Core Sales 0925,Facebook,Parents,Sales,407.02,35637,362,12,1636.78
+2026-07-07,CMP-0926,Instagram | Core Sales 0926,Instagram,Home & Lifestyle,Sales,617.23,39035,403,9,1288.04
+2026-04-14,CMP-0927,Pinterest | Core Sales 0927,Pinterest,Small Businesses,Sales,229.02,26007,325,6,834.86
+2026-02-24,CMP-0928,Twitter | Core Sales 0928,Twitter,Young Professionals,Sales,510.71,48013,497,13,1837.71
+2026-03-13,CMP-0929,Facebook | Seasonal Offers 0929,Facebook,Home & Lifestyle,Sales,146.06,13881,234,4,487.47
+2026-06-07,CMP-0930,Instagram | Seasonal Offers 0930,Instagram,Small Businesses,Sales,523.55,33078,515,16,1614.78
+2026-06-23,CMP-0931,Pinterest | Seasonal Offers 0931,Pinterest,Young Professionals,Sales,148.05,13674,138,2,290.8
+2026-09-25,CMP-0932,Twitter | Seasonal Offers 0932,Twitter,Parents,Sales,448.06,38680,619,10,1325.88
+2026-02-06,CMP-0933,Facebook | Newsletter Growth 0933,Facebook,Small Businesses,Leads,146.92,13480,179,5,545.9
+2026-01-24,CMP-0934,Instagram | Newsletter Growth 0934,Instagram,Young Professionals,Leads,320.93,21933,199,6,651.83
+2026-02-19,CMP-0935,Pinterest | Newsletter Growth 0935,Pinterest,Parents,Leads,416.77,45495,587,19,1449.82
+2026-09-12,CMP-0936,Twitter | Newsletter Growth 0936,Twitter,Home & Lifestyle,Leads,546.35,47932,451,9,770.96
+2026-07-25,CMP-0937,Facebook | Brand Discovery 0937,Facebook,Small Businesses,Awareness,399.49,29370,282,1,64.7
+2026-04-20,CMP-0938,Instagram | Brand Discovery 0938,Instagram,Young Professionals,Awareness,732.12,50765,427,2,94.99
+2026-08-01,CMP-0939,Pinterest | Brand Discovery 0939,Pinterest,Parents,Awareness,250.05,25782,195,1,58.4
+2026-03-10,CMP-0940,Twitter | Brand Discovery 0940,Twitter,Home & Lifestyle,Awareness,169.82,14050,137,1,44.39
+2026-09-07,CMP-0941,Facebook | New Visitors 0941,Facebook,Young Professionals,Traffic,200.4,19152,362,4,298.81
+2026-05-26,CMP-0942,Instagram | New Visitors 0942,Instagram,Parents,Traffic,457.75,30052,530,6,374.96
+2026-05-19,CMP-0943,Pinterest | New Visitors 0943,Pinterest,Home & Lifestyle,Traffic,461.71,47053,894,10,571.85
+2026-04-03,CMP-0944,Twitter | New Visitors 0944,Twitter,Small Businesses,Traffic,566.33,49731,596,8,523.9
+2026-08-03,CMP-0945,Facebook | Lead Builder 0945,Facebook,Parents,Leads,138.14,12330,121,3,227.63
+2026-07-05,CMP-0946,Instagram | Lead Builder 0946,Instagram,Home & Lifestyle,Leads,906.95,57005,704,18,1752.69
+2026-04-17,CMP-0947,Pinterest | Lead Builder 0947,Pinterest,Small Businesses,Leads,296.05,32099,458,14,1557.18
+2026-08-31,CMP-0948,Twitter | Lead Builder 0948,Twitter,Young Professionals,Leads,476.23,47412,715,12,1041.0
+2026-04-18,CMP-0949,Facebook | Core Sales 0949,Facebook,Home & Lifestyle,Sales,437.31,37951,589,16,1638.99
+2026-01-27,CMP-0950,Instagram | Core Sales 0950,Instagram,Small Businesses,Sales,858.76,66856,1027,23,2450.16
+2026-05-01,CMP-0951,Pinterest | Core Sales 0951,Pinterest,Young Professionals,Sales,594.89,57755,698,12,1656.88
+2026-06-16,CMP-0952,Twitter | Core Sales 0952,Twitter,Parents,Sales,253.39,25602,291,5,616.04
+2026-04-13,CMP-0953,Facebook | Seasonal Offers 0953,Facebook,Small Businesses,Sales,394.14,35333,463,11,1650.99
+2026-03-16,CMP-0954,Instagram | Seasonal Offers 0954,Instagram,Young Professionals,Sales,300.02,20714,228,5,628.74
+2026-04-10,CMP-0955,Pinterest | Seasonal Offers 0955,Pinterest,Parents,Sales,534.87,47192,528,9,1250.43
+2026-01-31,CMP-0956,Twitter | Seasonal Offers 0956,Twitter,Home & Lifestyle,Sales,285.86,28875,378,8,1142.15
+2026-04-23,CMP-0957,Facebook | Newsletter Growth 0957,Facebook,Young Professionals,Leads,767.08,61882,879,25,2419.17
+2026-03-29,CMP-0958,Instagram | Newsletter Growth 0958,Instagram,Parents,Leads,585.39,41024,431,11,1024.45
+2026-04-21,CMP-0959,Pinterest | Newsletter Growth 0959,Pinterest,Home & Lifestyle,Leads,507.71,46324,502,15,1527.23
+2026-05-07,CMP-0960,Twitter | Newsletter Growth 0960,Twitter,Small Businesses,Leads,264.81,24385,255,9,992.91
+2026-01-03,CMP-0961,Facebook | Brand Discovery 0961,Facebook,Young Professionals,Awareness,424.97,40155,468,3,169.44
+2026-08-06,CMP-0962,Instagram | Brand Discovery 0962,Instagram,Parents,Awareness,614.14,43893,470,4,220.79
+2026-05-04,CMP-0963,Pinterest | Brand Discovery 0963,Pinterest,Home & Lifestyle,Awareness,166.2,15485,158,1,49.4
+2026-07-03,CMP-0964,Twitter | Brand Discovery 0964,Twitter,Small Businesses,Awareness,331.09,28807,207,1,51.54
+2026-08-24,CMP-0965,Facebook | New Visitors 0965,Facebook,Parents,Traffic,835.84,64989,744,8,642.5
+2026-07-27,CMP-0966,Instagram | New Visitors 0966,Instagram,Home & Lifestyle,Traffic,308.46,19933,327,4,224.17
+2026-02-06,CMP-0967,Pinterest | New Visitors 0967,Pinterest,Small Businesses,Traffic,368.88,34915,546,5,398.58
+2026-04-17,CMP-0968,Twitter | New Visitors 0968,Twitter,Young Professionals,Traffic,611.61,62343,1154,14,808.17
+2026-07-06,CMP-0969,Facebook | Lead Builder 0969,Facebook,Home & Lifestyle,Leads,860.41,79671,909,26,2256.95
+2026-03-31,CMP-0970,Instagram | Lead Builder 0970,Instagram,Small Businesses,Leads,640.62,43156,548,17,1319.29
+2026-06-21,CMP-0971,Pinterest | Lead Builder 0971,Pinterest,Young Professionals,Leads,270.67,30052,365,13,1241.43
+2026-04-18,CMP-0972,Twitter | Lead Builder 0972,Twitter,Parents,Leads,589.44,49827,554,19,1755.49
+2026-08-05,CMP-0973,Facebook | Core Sales 0973,Facebook,Small Businesses,Sales,360.99,33911,414,9,1166.63
+2026-03-04,CMP-0974,Instagram | Core Sales 0974,Instagram,Young Professionals,Sales,500.28,35254,552,17,2132.2
+2026-07-08,CMP-0975,Pinterest | Core Sales 0975,Pinterest,Parents,Sales,725.33,64460,1001,31,3214.44
+2026-08-23,CMP-0976,Twitter | Core Sales 0976,Twitter,Home & Lifestyle,Sales,181.09,16876,186,6,625.97
+2026-03-26,CMP-0977,Facebook | Seasonal Offers 0977,Facebook,Young Professionals,Sales,321.44,25313,337,10,1292.89
+2026-01-12,CMP-0978,Instagram | Seasonal Offers 0978,Instagram,Parents,Sales,360.73,22766,310,5,597.51
+2026-08-16,CMP-0979,Pinterest | Seasonal Offers 0979,Pinterest,Home & Lifestyle,Sales,678.55,77478,860,13,1886.45
+2026-09-24,CMP-0980,Twitter | Seasonal Offers 0980,Twitter,Small Businesses,Sales,582.11,53935,658,17,2012.03
+2026-09-29,CMP-0981,Facebook | Newsletter Growth 0981,Facebook,Parents,Leads,822.74,69239,762,14,1455.56
+2026-03-29,CMP-0982,Instagram | Newsletter Growth 0982,Instagram,Home & Lifestyle,Leads,751.86,57670,661,15,1593.65
+2026-03-17,CMP-0983,Pinterest | Newsletter Growth 0983,Pinterest,Small Businesses,Leads,347.56,34997,353,12,1209.94
+2026-05-27,CMP-0984,Twitter | Newsletter Growth 0984,Twitter,Young Professionals,Leads,222.7,22070,302,10,1041.76
+2026-03-24,CMP-0985,Facebook | Brand Discovery 0985,Facebook,Parents,Awareness,293.67,27775,231,1,50.45
+2026-04-05,CMP-0986,Instagram | Brand Discovery 0986,Instagram,Home & Lifestyle,Awareness,291.34,19615,197,2,95.32
+2026-08-18,CMP-0987,Pinterest | Brand Discovery 0987,Pinterest,Small Businesses,Awareness,529.73,57964,478,4,216.05
+2026-09-13,CMP-0988,Twitter | Brand Discovery 0988,Twitter,Young Professionals,Awareness,671.21,54196,615,3,204.03
+2026-09-17,CMP-0989,Facebook | New Visitors 0989,Facebook,Home & Lifestyle,Traffic,405.26,31846,483,4,342.95
+2026-03-17,CMP-0990,Instagram | New Visitors 0990,Instagram,Small Businesses,Traffic,759.99,50890,960,9,535.84
+2026-09-03,CMP-0991,Pinterest | New Visitors 0991,Pinterest,Young Professionals,Traffic,800.75,88223,1394,12,823.82
+2026-04-23,CMP-0992,Twitter | New Visitors 0992,Twitter,Parents,Traffic,392.09,39828,466,5,371.89
+2026-04-24,CMP-0993,Facebook | Lead Builder 0993,Facebook,Small Businesses,Leads,690.34,53410,550,10,1064.03
+2026-02-14,CMP-0994,Instagram | Lead Builder 0994,Instagram,Young Professionals,Leads,898.95,65756,805,23,2132.51
+2026-01-29,CMP-0995,Pinterest | Lead Builder 0995,Pinterest,Parents,Leads,720.51,74472,743,25,2174.25
+2026-07-10,CMP-0996,Twitter | Lead Builder 0996,Twitter,Home & Lifestyle,Leads,127.04,11991,132,3,284.17
+2026-04-21,CMP-0997,Facebook | Core Sales 0997,Facebook,Young Professionals,Sales,651.33,54829,924,26,3022.13
+2026-08-06,CMP-0998,Instagram | Core Sales 0998,Instagram,Parents,Sales,788.52,57365,902,22,2377.75
+2026-06-05,CMP-0999,Pinterest | Core Sales 0999,Pinterest,Home & Lifestyle,Sales,429.15,38864,653,10,1540.05
+2026-07-12,CMP-1000,Twitter | Core Sales 1000,Twitter,Small Businesses,Sales,181.91,16865,275,6,787.59
